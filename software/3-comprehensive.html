@@ -1,0 +1,1075 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Comprehensive Installation &#8212; EPA122A</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=87e54e7c" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'software/3-comprehensive';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Virtual Environments" href="environment.html" />
+    <link rel="prev" title="Minimalist Installation" href="2-minimalist.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../_index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="EPA122A - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="EPA122A - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../_index.html">
+                    EPA 122A Spatial Data Science
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../introduction_index.html">👋🏽 Introduction</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../introduction/tobeginwith.html">To Begin With</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../introduction/overview.html">Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../introduction/syllabus.html">Syllabus</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../introduction/schedule.html">Schedule</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../lectures_index.html">🧐 Lectures</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../labs_index.html">💻 Labs</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../assessment_index.html">🎓 Assessment</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../assessment/assignment.html">Assignments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assessment/final-project.html">Final Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../assessment/project-template.html">Project Template</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../software_index.html">🐍 Software</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="1-standard.html">Standard Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-minimalist.html">Minimalist Installation</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Comprehensive Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="environment.html">Virtual Environments</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../resources_index.html">📚 Helping Material</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../faq_index.html">💁🏽‍♂️ FAQ</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/epa122a/epa122a.github.io" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/epa122a/epa122a.github.io/issues/new?title=Issue%20on%20page%20%2Fsoftware/3-comprehensive.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/software/3-comprehensive.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Comprehensive Installation</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-comprehensive-approach-the-gds-docker-container-slightly-more-advanced-and-complicated-installation">A comprehensive approach: the GDS Docker container (slightly more advanced and complicated installation)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#macos-installation"><mark> <strong>MacOS Installation</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installation">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#requirements">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#docker-install-steps">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-docker">Using Docker</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-the-gds-environment">Installing the GDS environment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-success">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-python">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#running-the-container">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ending-your-session">Ending your session</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#linux-installation"><mark> <strong>Linux Installation</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-the-gds-container">Installing the GDS container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">Ending your session</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#windows"><mark> <strong>Windows</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">Installing the GDS container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id17">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id18">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id19">Ending your session</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="comprehensive-installation">
+<h1>Comprehensive Installation<a class="headerlink" href="#comprehensive-installation" title="Link to this heading">#</a></h1>
+<section id="a-comprehensive-approach-the-gds-docker-container-slightly-more-advanced-and-complicated-installation">
+<h2>A comprehensive approach: the GDS Docker container (slightly more advanced and complicated installation)<a class="headerlink" href="#a-comprehensive-approach-the-gds-docker-container-slightly-more-advanced-and-complicated-installation" title="Link to this heading">#</a></h2>
+<p>If meet the following requirements, <a class="reference external" href="https://www.docker.com/">Docker</a> is a stable alternative and works out of the box:</p>
+<ol class="arabic simple">
+<li><p>You have admin rights over your machine</p></li>
+<li><p>You are running either Windows 10 Pro, macOS, or Linux distributions that are supported by Docker.</p></li>
+</ol>
+<p>It provides a stable platform to run complex software setups like that required in this context. Docker is a containerisation technology that allows to run pre-packaged (containerised) software under controlled environments. Relying on Docker, the <a class="reference external" href="https://github.com/darribas/gds_env"><code class="docutils literal notranslate"><span class="pre">gds_env</span></code></a> project provides a containerised platform for Geographic/Urban Data Science.</p>
+<p>This resource provides step-by-step descriptions on how to install and run Python from your own computer for all operating systems. See instructions below.</p>
+</section>
+<section id="macos-installation">
+<h2><mark> <strong>MacOS Installation</strong> </mark><a class="headerlink" href="#macos-installation" title="Link to this heading">#</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>If you want to install miniconda (recommended approach, go <a class="reference internal" href="../software_index.html"><span class="std std-doc">here</span></a>.)</p>
+</div>
+</section>
+<section id="installation">
+<h2>1. Installation<a class="headerlink" href="#installation" title="Link to this heading">#</a></h2>
+<section id="requirements">
+<h3>Requirements<a class="headerlink" href="#requirements" title="Link to this heading">#</a></h3>
+<p>To be able to complete this guide, your machine will need to meet the following requirements:</p>
+<ol class="arabic simple">
+<li><p>A stable internet connection</p></li>
+<li><p>~10GB of space on your hard drive</p></li>
+<li><p>MacOS version 10.13 or newer i.e. High Sierra, Mojave or Catalina. If you are unsure what version you are running click on the Apple icon in the top left of the screen and then <strong>About this Mac</strong>.</p></li>
+<li><p>Mac hardware must be a 2010 model or newer</p></li>
+</ol>
+</section>
+<section id="docker-install-steps">
+<h3>Docker install steps<a class="headerlink" href="#docker-install-steps" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p>Go to the <a class="reference external" href="https://hub.docker.com/editions/community/docker-ce-desktop-mac/">dockerhub website</a>.</p></li>
+<li><p>Select the version according to your Apple chip.</p></li>
+</ol>
+<p><img alt="Select Version" src="software/figs/chp1/Figure1.png" /></p>
+<ol class="arabic simple" start="3">
+<li><p>After you have installed the program and started it, the whale icon will appear in your taskbar as follows:</p></li>
+</ol>
+<p><img alt="Whale Icon" src="software/figs/chp1/Figure4.png" /></p>
+<br/>
+<p>You have successfully downloaded Docker!</p>
+</section>
+<section id="using-docker">
+<h3>Using Docker<a class="headerlink" href="#using-docker" title="Link to this heading">#</a></h3>
+<p>Now we have Docker installed we can use it to access Python and all the associated packages we need for the labs of this course.</p>
+<p><strong>Note</strong>: With this installation process, you will not be able to install other packages if you wish to experiment. However, this will be enough for the course.</p>
+</section>
+<section id="installing-the-gds-environment">
+<h3>Installing the GDS environment<a class="headerlink" href="#installing-the-gds-environment" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p>Access your terminal: <strong>Launchpad</strong> &gt; <strong>Other</strong> &gt; <strong>Terminal</strong></p></li>
+<li><p>In a fresh line in the terminal type the following to install the GDS environment container:</p></li>
+</ol>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>pull<span class="w"> </span>darribas/gds:6.1
+</pre></div>
+</div>
+<p><img alt="Docker Pull GDS" src="software/figs/chp1/Figure5.png" /></p>
+<br/>
+<ol class="arabic simple" start="3">
+<li><p>This should now prompt a long download process that looks a bit like this:</p></li>
+</ol>
+<p><img alt="Downloading" src="software/figs/chp1/Figure6.png" /></p>
+<p>Dont be alarmed if it seems to take a very long time.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Make sure you are connected to the internet and it is a stable connection. This step involves the download of large amounts of data (~ 10GB) so it might take a while. However, it only needs to run once.</p>
+</div>
+</section>
+<section id="check-success">
+<h3>Check success<a class="headerlink" href="#check-success" title="Link to this heading">#</a></h3>
+<p>You will know the process has completed successfully when each line says ‘Pull complete’ and the new line shows your machine name.</p>
+<p>If everything has gone according to plan, you should see <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> show up on your terminal when you type <code class="docutils literal notranslate"><span class="pre">docker</span> <span class="pre">image</span> <span class="pre">ls</span></code> (note in the image below there are other containers that are not required, do not worry if you don’t have those or slightly different values on the ID and the “CREATED” columns, the important bit is having <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> listed):</p>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<p><img alt="Command" src="software/figs/chp1/Figure8.png" /></p>
+</section>
+</section>
+<section id="running-python">
+<h2>2. Running Python<a class="headerlink" href="#running-python" title="Link to this heading">#</a></h2>
+<p>The following sections cover how to start a python session using the docker container image you just installed, use it, and shut it down when you are done.</p>
+<section id="running-the-container">
+<span id="id1"></span><h3>Running the container<a class="headerlink" href="#running-the-container" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p>In the new terminal line type the following command to run the container: <code class="docutils literal notranslate"><span class="pre">docker</span> <span class="pre">run</span> <span class="pre">--rm</span> <span class="pre">-ti</span> <span class="pre">-p</span> <span class="pre">8888:8888</span> <span class="pre">-v</span> <span class="pre">${PWD}:/home/jovyan/work</span> <span class="pre">darribas/gds:6.1</span></code></p></li>
+</ol>
+<p><img alt="Commandline" src="software/figs/chp1/Figure7.png" /></p>
+<br/>
+<p>You have now started a Python session.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Please do NOT close the terminal window until you are finished in this Python session.</p>
+</div>
+<ol class="arabic simple" start="2">
+<li><p>To access this session go to your chosen web browser (e.g. Safari/Chrome) and type: <code class="docutils literal notranslate"><span class="pre">localhost:8888</span></code> into the search bar</p></li>
+</ol>
+<p><img alt="Token" src="software/figs/chp1/Figure10_new.png" /></p>
+<ol class="arabic simple" start="3">
+<li><p>The page that loads will prompt you for a password or a token. This can be found in the text in the terminal following the last command you ran (step 9). A long series of numbers and letters will be preceded by <code class="docutils literal notranslate"><span class="pre">?token=</span></code>. Copy this long series of characters and paste into the password box in your browser.</p></li>
+</ol>
+<p><img alt="Login" src="software/figs/chp1/Figure9.png" /></p>
+<br/>
+<ol class="arabic simple" start="4">
+<li><p>Now that you are in Jupyter Lab you can open up a Python 3 notebook</p></li>
+</ol>
+<p><img alt="Jupyter Lab" src="software/figs/chp1/Figure11.png" /></p>
+<br/>
+</section>
+<section id="using-jupyter-notebook">
+<h3>Using Jupyter Notebook<a class="headerlink" href="#using-jupyter-notebook" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>This notebook is where you will run your code. Each shaded box is called a kernel. To test this out you can type <code class="docutils literal notranslate"><span class="pre">print('test')</span></code> into one of these kernels. To run the code use the shortcut <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Enter</span></code>.</p></li>
+</ul>
+<p><img alt="Notebook" src="software/figs/chp1/Figure12.png" /></p>
+<br/>
+<div class="admonition caution">
+<p class="admonition-title">Caution</p>
+<p>Make sure you save files you want to keep <strong>ONLY</strong> <em>within</em> the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder, as this will ensure they are saved on your machine. Everything saved outside the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder will be <em>destroyed</em> as soon as you shut down the session.</p>
+</div>
+<ul class="simple">
+<li><p>You can access other files on your machine through the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder in the File Browser. From here you can navigate to your Documents and designated folder for this module. For example, see below (this will depend on where you have stored the lab notebooks/data/other material for this course)</p></li>
+</ul>
+<p><img alt="Navigation0" src="software/figs/chp1/Figure15a_new.png" /></p>
+<p><img alt="Navigation1" src="software/figs/chp1/Figure15b.png" /></p>
+<p><img alt="Navigation2" src="software/figs/chp1/Figure15c.png" /></p>
+<p>Here I am navigating to the folder that I have created for this module in my Documents. You can replace this with the pathway to the folder you create for this module.</p>
+<br/>
+<ul class="simple">
+<li><p>You can save your notebook here using <strong>File</strong> &gt; <strong>Save notebook as</strong>
+<img alt="Saving Notebook" src="software/figs/chp1/Figure13_new.png" /></p></li>
+</ul>
+<br/>
+<ul class="simple">
+<li><p>And you can create new folders to organise your work
+<img alt="Organisation" src="software/figs/chp1/Figure14_new.png" /></p></li>
+</ul>
+<br/>
+</section>
+<section id="ending-your-session">
+<h3>Ending your session<a class="headerlink" href="#ending-your-session" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Once you have finished in your Jupyter session and have saved all your work, you can end the session from the terminal.</p></li>
+<li><p>Using <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> will prompt a <code class="docutils literal notranslate"><span class="pre">y/n</span></code> option. Either type <code class="docutils literal notranslate"><span class="pre">y</span></code> or <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> again to end the session.</p></li>
+<li><p>You can now safely shut the terminal window.</p></li>
+</ul>
+<br/>
+<p>Next time you go to run a Jupyter Notebook you will not need to repeat the whole process as you have already installed Docker and the GDS environment. Instead you can start from <a class="reference internal" href="#running-the-container"><span class="std std-ref">Running the container</span></a> and carry on from there.</p>
+<br/>
+<hr class="docutils" />
+<br/>
+</section>
+</section>
+<section id="linux-installation">
+<h2><mark> <strong>Linux Installation</strong> </mark><a class="headerlink" href="#linux-installation" title="Link to this heading">#</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>If you want to install miniconda (recommended approach, go <a class="reference internal" href="../software_index.html"><span class="std std-doc">here</span></a>.)</p>
+</div>
+</section>
+<section id="id2">
+<h2>1. Installation<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
+<section id="id3">
+<h3>Requirements<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<p>To be able to complete this guide, your machine will need to meet the following requirements:</p>
+<ol class="arabic simple">
+<li><p>A stable internet connection</p></li>
+<li><p>~10GB of space on your hard drive</p></li>
+<li><p>A Linux distribution supported by Docker. You can check available distributions for ready installation on <a class="reference external" href="https://hub.docker.com/search?q=&amp;amp;type=edition&amp;amp;offering=community&amp;amp;operating_system=linux">this page</a>.</p></li>
+</ol>
+<p><strong>NOTE</strong> If you are running a different distribution (e.g. Arch Linux), there is a good chance Docker <em>will</em> work, but you will have to source your own instructions for installation. Once you have Docker up and running on your machine, you can move to <a class="reference internal" href="#installing-the-gds-container"><span class="std std-ref">Installing the GDS container</span></a>.</p>
+</section>
+<section id="id4">
+<h3>Docker install steps<a class="headerlink" href="#id4" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p>Select the page for your distribution from the <a class="reference external" href="https://hub.docker.com/search?q=&amp;amp;type=edition&amp;amp;offering=community&amp;amp;operating_system=linux">Docker Hub list of supported distributions</a></p></li>
+</ol>
+<p><img alt="Docker Distros" src="software/figs/chp2/docker_distros.png" /></p>
+<br>
+<p>For this example, we will use Ubuntu.</p>
+<ol class="arabic simple" start="2">
+<li><p>Make sure that you meet the requirements to install Docker:</p></li>
+</ol>
+<p><img alt="Ubuntu" src="software/figs/chp2/ubuntu.png" /></p>
+<br>
+<ol class="arabic simple" start="3">
+<li><p>Follow the steps specified on the official install guide:</p></li>
+</ol>
+<blockquote>
+<div><p><a class="reference external" href="https://docs.docker.com/engine/install/ubuntu/">https://docs.docker.com/engine/install/ubuntu/</a></p>
+</div></blockquote>
+<p>Once you complete these steps successfully, you will have Docker ready to go on your computer!</p>
+</section>
+<section id="installing-the-gds-container">
+<span id="id5"></span><h3>Installing the GDS container<a class="headerlink" href="#installing-the-gds-container" title="Link to this heading">#</a></h3>
+<p>Once you have Docker installed and running on your machine, installing everything you need to run Python and associated libraries boils down to the following two steps:</p>
+<ol class="arabic simple">
+<li><p>Open your terminal app of choice (for example, Gnome Terminal)</p></li>
+<li><p>Run the following command:</p></li>
+</ol>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>pull<span class="w"> </span>darribas/gds:6.1
+</pre></div>
+</div>
+<p><img alt="Terminal Pull" src="software/figs/chp2/terminal_pull.png" /></p>
+<br>
+<p>You will know this has completed when each line says ‘Pull complete’.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Make sure you are connected to the internet and it is a stable connection. This step involves the download of large amounts of data (ca. 10GB) so it might take a while. However, it only needs to be run once.</p>
+</div>
+</section>
+<section id="id6">
+<h3>Check success<a class="headerlink" href="#id6" title="Link to this heading">#</a></h3>
+<p>If everything has gone according to plan, you should see <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> show up on your terminal when you type <code class="docutils literal notranslate"><span class="pre">docker</span> <span class="pre">image</span> <span class="pre">ls</span></code> (note in the image below there are other containers that are not required, do not worry if you don’t have those or slightly different values on the ID and the “CREATED” columns, the important bit is having <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> listed):</p>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<p><img alt="Docker Image" src="software/figs/chp2/docker_image_ls.png" /></p>
+<br>
+</section>
+</section>
+<section id="id7">
+<h2>2. Running Python<a class="headerlink" href="#id7" title="Link to this heading">#</a></h2>
+<p>The following sections cover how to start a python session using the docker container image you just installed, use it, and shut it down when you are done.</p>
+<section id="id8">
+<h3>Running the container<a class="headerlink" href="#id8" title="Link to this heading">#</a></h3>
+<p>To start up Python through Docker, follow these steps:</p>
+<ol class="arabic simple">
+<li><p>In a new terminal line, type the following command to run the container and hit enter:</p></li>
+</ol>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>run<span class="w"> </span>--rm<span class="w"> </span>-ti<span class="w"> </span>-p<span class="w"> </span><span class="m">8888</span>:8888<span class="w"> </span>-v<span class="w"> </span><span class="si">${</span><span class="nv">PWD</span><span class="si">}</span>:/home/jovyan/work<span class="w"> </span>darribas/gds:6.1
+</pre></div>
+</div>
+<p><img alt="Docker Run" src="software/figs/chp2/docker_run.png" /></p>
+<br>
+<p>You have now started a Python session.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Please do NOT close the terminal window until you are finished in this Python session</p>
+</div>
+<ol class="arabic simple" start="2">
+<li><p>To access this session go to your chosen web browser (e.g. Firefox/Chrome) and type: <code class="docutils literal notranslate"><span class="pre">localhost:8888</span></code> into the search bar</p></li>
+</ol>
+<br>
+<p><img alt="Browser Access" src="software/figs/chp1/Figure10.png" /></p>
+<ol class="arabic simple" start="3">
+<li><p>The page that loads will prompt you for a password or a token. This can be found in the text in the terminal following the last command you ran. A long series of numbers and letters will be preceded by <code class="docutils literal notranslate"><span class="pre">?token=</span></code>. Copy this long series of characters and paste into the password box in your browser.</p></li>
+</ol>
+<p><img alt="Docker Token" src="software/figs/chp2/docker_token.png" /></p>
+<ol class="arabic simple" start="4">
+<li><p>Now that you are in Jupyter Lab you can open up a Python 3 notebook</p></li>
+</ol>
+<p><img alt="Python Notebook" src="software/figs/chp1/Figure11.png" /></p>
+<br>
+</section>
+<section id="id9">
+<h3>Using Jupyter Notebook<a class="headerlink" href="#id9" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>This notebook is where you will run your code. Each shaded box is called a kernel. To test this out you can type <code class="docutils literal notranslate"><span class="pre">print('test')</span></code> into one of these kernels. To run the code use the shortcut <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Enter</span></code>.</p></li>
+</ul>
+<p><img alt="Jupyter Notebook" src="software/figs/chp1/Figure12.png" /></p>
+<br>
+<div class="admonition caution">
+<p class="admonition-title">Caution</p>
+<p>Make sure you save files you want to keep <strong>ONLY</strong> <em>within</em> the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder, as this will ensure they are saved on your machine. Everything saved outside the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder will be <em>destroyed</em> as soon as you shut down the session.</p>
+</div>
+<ul class="simple">
+<li><p>You can save your notebook using <strong>File</strong> &gt; <strong>Save notebook as</strong></p></li>
+</ul>
+<p><img alt="Saving notebook" src="software/figs/chp1/Figure13.png" /></p>
+<br>
+<ul class="simple">
+<li><p>You can create new folders to organise your work
+<img alt="New Folders" src="software/figs/chp1/Figure14.png" /></p></li>
+</ul>
+<br>
+<ul class="simple">
+<li><p>And you can access other files on your machine through the ‘work’ folder in the File Browser. From here you can navigate to your Documents and designated folder for this module</p></li>
+</ul>
+<p><img alt="Saving 1" src="software/figs/chp1/Figure15a.png" /></p>
+<p><img alt="Saving 2" src="software/figs/chp1/Figure15b.png" /></p>
+<p><img alt="Saving 3" src="software/figs/chp1/Figure15c.png" /></p>
+<br>
+</section>
+<section id="id10">
+<h3>Ending your session<a class="headerlink" href="#id10" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Once you have finished in your Jupyter session and have saved all your work, you can end the session from the terminal.</p></li>
+<li><p>Using <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> will prompt a <code class="docutils literal notranslate"><span class="pre">y/n</span></code> option. Either type <code class="docutils literal notranslate"><span class="pre">y</span></code> or <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> again to end the session.</p></li>
+<li><p>You can now safely shut the terminal window.</p></li>
+</ul>
+<br>
+<p>Next time you go to run a Jupyter Notebook you will not need to repeat the whole process as you have already installed Docker and the GDS environment. Instead you can start from <a class="reference internal" href="#running-the-container"><span class="std std-ref">Running Python through Docker</span></a> and carry on from there.</p>
+<br/>
+<hr class="docutils" />
+<br/>
+</section>
+</section>
+<section id="windows">
+<h2><mark> <strong>Windows</strong> </mark><a class="headerlink" href="#windows" title="Link to this heading">#</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>If you want to install miniconda (recommended approach, go <a class="reference internal" href="../software_index.html"><span class="std std-doc">here</span></a>.)</p>
+</div>
+</section>
+<section id="id11">
+<h2>1. Installation<a class="headerlink" href="#id11" title="Link to this heading">#</a></h2>
+<section id="id12">
+<h3>Requirements<a class="headerlink" href="#id12" title="Link to this heading">#</a></h3>
+<p>To be able to complete this guide, your machine will need to meet the following requirements:</p>
+<ol class="arabic simple">
+<li><p>A stable internet connection</p></li>
+<li><p>~10GB of space on your hard drive</p></li>
+<li><p>Microsoft Windows 10 Professional, Education, Enterprise 64-bit, or Windows 10 Home 64-bit with WSL 2. You can see the full requirements on the official <a class="reference external" href="https://docs.docker.com/docker-for-windows/install/">Docker for Windows page</a>.</p></li>
+</ol>
+</section>
+<section id="id13">
+<h3>Docker install steps<a class="headerlink" href="#id13" title="Link to this heading">#</a></h3>
+<p>Once you have everything required ready to go, the first step is to install the Docker Desktop App for Windows. Here are the steps you can follow:</p>
+<ol class="arabic simple">
+<li><p>Head over to <a class="reference external" href="https://hub.docker.com/editions/community/docker-ce-desktop-windows/">Docker Hub</a> to download a copy of Docker for Windows:</p></li>
+</ol>
+<p><img alt="Docker Hub" src="software/figs/chp3/docker_hub.png" /></p>
+<ol class="arabic simple" start="2">
+<li><p>Follow the instructions on the installation wizard to authorize the installer and proceed with the install.</p></li>
+</ol>
+<p>You can check if the process has completed successfully by following these steps:</p>
+<ol class="arabic simple">
+<li><p>Open PowelShell from the “Start Menu”</p></li>
+</ol>
+<p><img alt="Powershell" src="software/figs/chp3/powershell.png" /></p>
+<br>
+<ol class="arabic simple" start="2">
+<li><p>Check Docker is available by printing out the version you have installed:</p></li>
+</ol>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>--version
+</pre></div>
+</div>
+<p><img alt="Docker Version" src="software/figs/chp3/docker_version.png" /></p>
+<br>
+<p>Note that you might have installed a slightly different version and that is totally okay. What you want to make sure is that it successfully prints out a version instead of a warning/error message (usually in red).</p>
+</section>
+<section id="id14">
+<h3>Installing the GDS container<a class="headerlink" href="#id14" title="Link to this heading">#</a></h3>
+<p>Once you have Docker installed and running on your machine, installing everything you need to run Python and associated libraries boils down to the following two steps:</p>
+<ol class="arabic simple">
+<li><p>Open PowerShell following the same steps as above (you can use the same window as before or a fresh new one).</p></li>
+<li><p>Run (type and hit “Enter”) the following command:</p></li>
+</ol>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>pull<span class="w"> </span>darribas/gds:6.1
+</pre></div>
+</div>
+<p><img alt="Pull GDS" src="software/figs/chp3/pull_gds.png" /></p>
+<br>
+<p>You will know this has completed when each line says ‘Pull complete’.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Make sure you are connected to the internet and it is a stable connection. This step involves the download of large amounts of data (ca. 10GB) so it might take a while. However, it only needs to run once.</p>
+</div>
+</section>
+<section id="id15">
+<h3>Check success<a class="headerlink" href="#id15" title="Link to this heading">#</a></h3>
+<p>If everything has gone according to plan, you should see <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> show up on your terminal when you type <code class="docutils literal notranslate"><span class="pre">docker</span> <span class="pre">image</span> <span class="pre">ls</span></code> (note in the image below there are other containers that are not required, do not worry if you don’t have those or slightly different values on the ID and the “CREATED” columns, the important bit is having <code class="docutils literal notranslate"><span class="pre">darribas/gds:6.1</span></code> listed):</p>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<p><img alt="Docker Success" src="software/figs/chp3/docker_success.png" /></p>
+<br>
+</section>
+</section>
+<section id="id16">
+<h2>2. Running Python<a class="headerlink" href="#id16" title="Link to this heading">#</a></h2>
+<p>The following sections cover how to start a python session using the docker container image you just installed, use it, and shut it down when you are done.</p>
+<section id="id17">
+<h3>Running the container<a class="headerlink" href="#id17" title="Link to this heading">#</a></h3>
+<p>To start up Python through Docker, follow these steps:</p>
+<ol class="arabic simple">
+<li><p>In a new PowerShell window, type the following command to run the container and hit enter:</p></li>
+</ol>
+<p><strong>NOTE</strong>: please ignore the version showing in the screenshot, follow that in
+the command below</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>run<span class="w"> </span>--rm<span class="w"> </span>-ti<span class="w"> </span>-p<span class="w"> </span><span class="m">8888</span>:8888<span class="w"> </span>-v<span class="w"> </span><span class="si">${</span><span class="nv">PWD</span><span class="si">}</span>:/home/jovyan/work<span class="w"> </span>darribas/gds:6.1
+</pre></div>
+</div>
+<p><img alt="DockerRun" src="software/figs/chp3/docker_run.png" /></p>
+<p>You have now started a Python session.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Please do NOT close the PowerShell window until you are finished in this Python session</p>
+</div>
+<ol class="arabic simple" start="2">
+<li><p>To access this session go to your chosen web browser (e.g. Firefox/Chrome) and type: <code class="docutils literal notranslate"><span class="pre">localhost:8888</span></code> into the search bar. You should see something similar to:</p></li>
+</ol>
+<br>
+<p><img alt="Jupyter Token" src="software/figs/chp3/jupyter_token.png" /></p>
+<ol class="arabic simple" start="3">
+<li><p>The page that loads will prompt you for a password or a token. This can be found in the text in the terminal following the last command you ran. This will be a long series of numbers and letters will be preceded by <code class="docutils literal notranslate"><span class="pre">?token=</span></code>. Copy this long series of characters and paste into the password box in your browser.</p></li>
+</ol>
+<p><img alt="Docker Token" src="software/figs/chp3/docker_token.png" /></p>
+<ol class="arabic simple" start="4">
+<li><p>Now you are in Jupyter Lab, it should look like this, more or less:</p></li>
+</ol>
+<p><img alt="Jupyter Lab" src="software/figs/chp3/lab.png" /></p>
+<br>
+</section>
+<section id="id18">
+<h3>Using Jupyter Notebook<a class="headerlink" href="#id18" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>This notebook is where you will run your code. Each shaded box is called a kernel. To test this out you can type <code class="docutils literal notranslate"><span class="pre">print('test')</span></code> into one of these kernels. To run the code use the shortcut <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Enter</span></code>.</p></li>
+</ul>
+<p><img alt="Using notebook" src="software/figs/chp1/Figure12.png" /></p>
+<br>
+<div class="admonition caution">
+<p class="admonition-title">Caution</p>
+<p>Make sure you save files you want to keep <strong>ONLY</strong> <em>within</em> the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder, as this will ensure they are saved on your machine. Everything saved outside the <code class="docutils literal notranslate"><span class="pre">work</span></code> folder will be <em>destroyed</em> as soon as you shut down the session.</p>
+</div>
+<ul class="simple">
+<li><p>You can save your notebook using <strong>File</strong> &gt; <strong>Save notebook as</strong>
+<img alt="Saving Notebook" src="software/figs/chp1/Figure13.png" /></p></li>
+</ul>
+<br>
+<ul class="simple">
+<li><p>You can create new folders to organise your work</p></li>
+</ul>
+<p><img alt="Organisation" src="software/figs/chp1/Figure14.png" /></p>
+<br>
+<ul class="simple">
+<li><p>And you can access other files on your machine through the ‘work’ folder in the File Browser. From here you can navigate to your Documents and designated folder for this module</p></li>
+</ul>
+<p><img alt="Navigation3" src="software/figs/chp1/Figure15a_new.png" /></p>
+<p><img alt="Navigation4" src="software/figs/chp1/Figure15b.png" /></p>
+<p><img alt="Navigation5" src="software/figs/chp1/Figure15c.png" />
+<br></p>
+</section>
+<section id="id19">
+<h3>Ending your session<a class="headerlink" href="#id19" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Once you have finished in your Jupyter session and have saved all your work, you can end the session from the terminal.</p></li>
+<li><p>Using <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> will prompt a <code class="docutils literal notranslate"><span class="pre">y/n</span></code> option. Either type <code class="docutils literal notranslate"><span class="pre">y</span></code> or <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">C</span></code> again to end the session.</p></li>
+<li><p>You can now safely shut the terminal window.</p></li>
+</ul>
+<br>
+<p>Next time you go to run a Jupyter Notebook you will not need to repeat the whole process as you have already installed Docker and the GDS environment. Instead you can start from <a class="reference internal" href="#running-the-container"><span class="std std-ref">Running Python through Docker</span></a> and carry on from there.</p>
+<br>
+<p>This resource is adapted from Arribas-Bel, Dani. 2019. gds_env: A Containerised Platform for Geographic Data Science (version 6.1). <a class="reference external" href="https://darribas.org/gds_env">https://darribas.org/gds_env</a>.</p>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./software"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="2-minimalist.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Minimalist Installation</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="environment.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Virtual Environments</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-comprehensive-approach-the-gds-docker-container-slightly-more-advanced-and-complicated-installation">A comprehensive approach: the GDS Docker container (slightly more advanced and complicated installation)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#macos-installation"><mark> <strong>MacOS Installation</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installation">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#requirements">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#docker-install-steps">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-docker">Using Docker</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-the-gds-environment">Installing the GDS environment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-success">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-python">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#running-the-container">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#using-jupyter-notebook">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ending-your-session">Ending your session</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#linux-installation"><mark> <strong>Linux Installation</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#installing-the-gds-container">Installing the GDS container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">Ending your session</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#windows"><mark> <strong>Windows</strong> </mark></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">1. Installation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">Requirements</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">Docker install steps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">Installing the GDS container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">Check success</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">2. Running Python</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id17">Running the container</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id18">Using Jupyter Notebook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id19">Ending your session</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Giacomo Marangoni
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright Delft University of Technology, CC BY-SA 4.0.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

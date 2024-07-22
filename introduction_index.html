@@ -1,0 +1,693 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>👋🏽 Introduction &#8212; EPA122A</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'introduction_index';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="To Begin With" href="introduction/tobeginwith.html" />
+    <link rel="prev" title="EPA 122A Spatial Data Science" href="_index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="_index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="EPA122A - Home"/>
+    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="EPA122A - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_index.html">
+                    EPA 122A Spatial Data Science
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">👋🏽 Introduction</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="introduction/tobeginwith.html">To Begin With</a></li>
+<li class="toctree-l2"><a class="reference internal" href="introduction/overview.html">Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="introduction/syllabus.html">Syllabus</a></li>
+<li class="toctree-l2"><a class="reference internal" href="introduction/schedule.html">Schedule</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="lectures_index.html">🧐 Lectures</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="labs_index.html">💻 Labs</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="assessment_index.html">🎓 Assessment</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="assessment/assignment.html">Assignments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="assessment/final-project.html">Final Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="assessment/project-template.html">Project Template</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="software_index.html">🐍 Software</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="software/1-standard.html">Standard Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software/2-minimalist.html">Minimalist Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software/3-comprehensive.html">Comprehensive Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software/environment.html">Virtual Environments</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="resources_index.html">📚 Helping Material</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq_index.html">💁🏽‍♂️ FAQ</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/epa122a/epa122a.github.io" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/epa122a/epa122a.github.io/issues/new?title=Issue%20on%20page%20%2Fintroduction_index.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/introduction_index.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>👋🏽 Introduction</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#instructor-details">Instructor Details</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule">Schedule</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#locations">Locations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#teaching-assistant-support">Teaching Assistant Support</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-language">Course Language</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-python">Why Python</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#expected-prior-knowledge">Expected prior knowledge</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#philosophy-of-the-course">Philosophy of the course</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#feedback-strategy">Feedback strategy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#questions">Questions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-texts-and-learning-resources">Key texts and learning resources</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgement">Acknowledgement</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="introduction">
+<h1>👋🏽 Introduction<a class="headerlink" href="#introduction" title="Link to this heading">#</a></h1>
+<div class="admonition-important admonition">
+<p class="admonition-title">IMPORTANT</p>
+<p>The course is freely available on this website. There are <strong>no online or hybrid meetings</strong>. If you just want all of the course materials and not participate in the course any longer, please unenroll from Brightspace. Thank you.</p>
+</div>
+<p>Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. The course is taught by Dr Trivik Verma with the support of a fantastic team of teaching assistants.</p>
+<section id="instructor-details">
+<h2>Instructor Details<a class="headerlink" href="#instructor-details" title="Link to this heading">#</a></h2>
+<div class="highlight-markdown notranslate"><div class="highlight"><pre><span></span>Dr Trivik Verma
+Associate Professor in Urban Science &amp; Policy
+B2.390, Building 31
+Faculty of Technology, Policy and Management
+Jaffalaan 5
+2628 BX Delft
+The Netherlands
+Email: t.verma@tudelft.nl
+Office Hours: Mondays 9-11 am (walk-in, no appointment needed)
+</pre></div>
+</div>
+</section>
+<section id="schedule">
+<h2>Schedule<a class="headerlink" href="#schedule" title="Link to this heading">#</a></h2>
+<p>A detailed schedule of the course is provided <a class="reference internal" href="introduction/schedule.html"><span class="std std-doc">here</span></a>.</p>
+</section>
+<section id="locations">
+<h2>Locations<a class="headerlink" href="#locations" title="Link to this heading">#</a></h2>
+<p>All lectures, labs, discussions, and office hours will be hosted in person.</p>
+<ul class="simple">
+<li><p><strong>Physical</strong> location information is mentioned in Brightspace calendars. All meetings will take place in <strong>The Hague campus of TU Delft</strong>.</p></li>
+<li><p><strong>Virtual</strong> There are no online or hybrid meetings.</p></li>
+<li><p><strong>Announcements</strong> will regularly be made on Brightspace.</p></li>
+</ul>
+</section>
+<section id="teaching-assistant-support">
+<h2>Teaching Assistant Support<a class="headerlink" href="#teaching-assistant-support" title="Link to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Teaching Assistant</p></th>
+<th class="head"><p>Email</p></th>
+<th class="head"><p>Role</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Laura van Geene</p></td>
+<td><p><a class="reference external" href="mailto:L&#46;A&#46;vanGeene&#37;&#52;&#48;student&#46;tudelft&#46;nl">L<span>&#46;</span>A<span>&#46;</span>vanGeene<span>&#64;</span>student<span>&#46;</span>tudelft<span>&#46;</span>nl</a></p></td>
+<td><p>All</p></td>
+</tr>
+<tr class="row-odd"><td><p>Nachiket Kondhalkar</p></td>
+<td><p><a class="reference external" href="mailto:N&#46;B&#46;Kondhalkar&#37;&#52;&#48;student&#46;tudelft&#46;nl">N<span>&#46;</span>B<span>&#46;</span>Kondhalkar<span>&#64;</span>student<span>&#46;</span>tudelft<span>&#46;</span>nl</a></p></td>
+<td><p>All</p></td>
+</tr>
+<tr class="row-even"><td><p>Philip Mueller</p></td>
+<td><p><a class="reference external" href="mailto:P&#46;Muller&#37;&#52;&#48;student&#46;tudelft&#46;nl">P<span>&#46;</span>Muller<span>&#64;</span>student<span>&#46;</span>tudelft<span>&#46;</span>nl</a></p></td>
+<td><p>All</p></td>
+</tr>
+<tr class="row-odd"><td><p>Shreya Kejriwal</p></td>
+<td><p><a class="reference external" href="mailto:S&#46;M&#46;Kejriwal&#37;&#52;&#48;student&#46;tudelft&#46;nl">S<span>&#46;</span>M<span>&#46;</span>Kejriwal<span>&#64;</span>student<span>&#46;</span>tudelft<span>&#46;</span>nl</a></p></td>
+<td><p>All</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="course-language">
+<h2>Course Language<a class="headerlink" href="#course-language" title="Link to this heading">#</a></h2>
+<p>English &amp; Python</p>
+</section>
+<section id="why-python">
+<h2>Why Python<a class="headerlink" href="#why-python" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>General purpose</strong> programming language</p></li>
+<li><p>“Sweet spot” between <em>“proof-of-concept”</em> and <em>“production-ready”</em></p></li>
+<li><p>Industry standard: <strong>GIS</strong> (Esri, QGIS) and <strong>Data Science</strong> (World Bank, OECD, The Atlantic, Gemeente Den Haag…)</p></li>
+</ul>
+</section>
+<section id="expected-prior-knowledge">
+<h2>Expected prior knowledge<a class="headerlink" href="#expected-prior-knowledge" title="Link to this heading">#</a></h2>
+<p>Students should have some prior programming experience. It will be beneficial if you have dealt with a functional programming language like R or Python before. If you have never programmed, I recommend doing a crash course in Python through Coursera or other online services before joining the class. This course is not about learning how to program. It is about becoming responsible data scientists.</p>
+<p><em>Other faculties/universities:</em> Graduate students from all faculties and exchange universities are welcome to join <strong>[subject to me receiving an email with your motivation to join the course before the start of the course. Without receiving such a motivation email, we will not be able to accommodate you fully.]</strong>. There are similar courses in other faculties that are also more tailored to your respective programs, in case this course is not what you were expecting it to be.</p>
+<p>For students who have had statistical, math or computer programming courses in their bachelors or elsewhere, this course will add to your skills by providing you with tools to become future policy-makers, data scientists, and in general, supporters of open science. The course will offer some uncertainty in terms of what is a problem and how it can be solved. If you are willing to embrace that uncertainty, we will learn about the fundamentals of spatial data science. We may even discover new ways of designing equitable urban spaces, from neighbourhoods and cities to entire regions.</p>
+</section>
+<section id="philosophy-of-the-course">
+<h2>Philosophy of the course<a class="headerlink" href="#philosophy-of-the-course" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>(Lots of) <strong>methods</strong> and techniques</p>
+<ul>
+<li><p>General overview</p></li>
+<li><p>Intuition</p></li>
+<li><p>Very little math</p></li>
+<li><p>Lots of ways to continue on your own</p></li>
+</ul>
+</li>
+<li><p>Emphasis on <strong>critical thinking</strong>, <strong>application</strong> and <strong>use</strong></p></li>
+<li><p>Close connection to <strong>real world</strong> applications</p></li>
+</ul>
+</section>
+<section id="feedback-strategy">
+<h2>Feedback strategy<a class="headerlink" href="#feedback-strategy" title="Link to this heading">#</a></h2>
+<p>The students will receive feedback through the following channels:</p>
+<ul class="simple">
+<li><p><strong>Formative Feedback</strong> weekly general feedback on labs by TAs and direct interaction with the instructor and teaching assistants in the lectures and labs.</p></li>
+<li><p><strong>Summative Feedback</strong> as graded assessment of three summative assignments and a final project. This will be in the form of reasoning of the mark assigned as well as comments specifying how the mark could be improved. This will be provided before the submission of the next assignment is due so students have the chance to incorporate the feedback in their work.</p></li>
+</ul>
+</section>
+<section id="questions">
+<h2>Questions<a class="headerlink" href="#questions" title="Link to this heading">#</a></h2>
+<p>This course is about learning to learn, so if you have a question, follow the process laid out below for the most efficient and organised way of learning.</p>
+<p><img alt="mindmap" src="introduction/mindmap.png" /></p>
+</section>
+<section id="key-texts-and-learning-resources">
+<h2>Key texts and learning resources<a class="headerlink" href="#key-texts-and-learning-resources" title="Link to this heading">#</a></h2>
+<p>Access to materials, including lecture slides and lab notebooks, is centralized through the use of a course website available through the following url:</p>
+<p><a class="reference external" href="https://trivikverma.github.io/spatial-data-science/_index.html"><code class="docutils literal notranslate"><span class="pre">https://trivikverma.github.io/spatial-data-science/_index.html</span></code></a></p>
+<p>Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and lab, and can be accessed through the course website.</p>
+</section>
+<section id="acknowledgement">
+<h2>Acknowledgement<a class="headerlink" href="#acknowledgement" title="Link to this heading">#</a></h2>
+<p>This course has been developed using research, input from colleagues at the faculty of Technology, Policy and Management at TU Delft and a few open-source teaching resources on the web. I am incredibly grateful to these developers for offering information openly:</p>
+<ul class="simple">
+<li><p>Arribas-Bel, D. (2019). <a class="reference external" href="https://jose.theoj.org/papers/10.21105/jose.00042">A course on geographic data science</a>. Journal of Open Source Education, 2(16), 42.</p></li>
+<li><p>Lab Materials extended from Introduction to Data Science taught at Harvard University by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner.</p></li>
+<li><p>All open-source material from <a class="reference external" href="https://geoffboeing.com/">Geoff Boeing</a> at USC’s Sol Price School of Public Policy.</p></li>
+<li><p>Discussions with Francisco Rowe, Caitlin Robinson, Clara Peiret-Garcia, Juliana Goncalves, Anastassia Vybornova, Ruth Nelson, Nazli Aydin and so many students.</p></li>
+</ul>
+</section>
+<section id="license">
+<h2>License<a class="headerlink" href="#license" title="Link to this heading">#</a></h2>
+<p>Unless otherwise stated, all content on this website, including all teaching material, is licensed under a <a class="reference external" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+</section>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="_index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">EPA 122A Spatial Data Science</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="introduction/tobeginwith.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">To Begin With</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#instructor-details">Instructor Details</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule">Schedule</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#locations">Locations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#teaching-assistant-support">Teaching Assistant Support</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-language">Course Language</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-python">Why Python</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#expected-prior-knowledge">Expected prior knowledge</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#philosophy-of-the-course">Philosophy of the course</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#feedback-strategy">Feedback strategy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#questions">Questions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-texts-and-learning-resources">Key texts and learning resources</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgement">Acknowledgement</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Giacomo Marangoni
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright Delft University of Technology, CC BY-SA 4.0.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
