@@ -6,19 +6,22 @@ The course is freely available on this website. There are **no online or hybrid 
 
 Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. The course is taught by Dr Trivik Verma with the support of a fantastic team of teaching assistants.
 
-## Instructor Details
+## Instructors
 
-```markdown
-Dr Trivik Verma
-Associate Professor in Urban Science & Policy
-B2.390, Building 31
-Faculty of Technology, Policy and Management
+### Dr. Giacomo Marangoni
+**Assistant Professor in Policy Analysis**
+[Email: g.marangoni@tudelft.nl](mailto:g.marangoni@tudelft.nl)
+
+### Dr. Theodoros Chatzivasileiadis
+**Assistant Professor in Policy Analysis**
+[Email: t.chatzivasileiadis@tudelft.nl](mailto:t.chatzivasileiadis@tudelft.nl)
+
+---
+
+**Faculty of Technology, Policy and Management**
 Jaffalaan 5
 2628 BX Delft
 The Netherlands
-Email: t.verma@tudelft.nl
-Office Hours: Mondays 9-11 am (walk-in, no appointment needed)
-```
 
 ## Schedule
 
