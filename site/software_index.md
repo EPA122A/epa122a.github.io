@@ -1,15 +1,32 @@
-# 🐍 Software
+# 🐍 Software Installation
 
-This course is best followed if you can reproduce the examples and tutorials provided with it. To do so, you will need to install in your machine a series of software packages. These are all open-source and available for free to download.
+To get the most out of this course, it is highly recommended that you reproduce the examples and tutorials provided. This hands-on approach will allow you to better understand the concepts and apply the techniques we cover. To achieve this, you will need to install several software packages on your machine. All of the required software is open-source and available for free.
 
-There are three main pathways to install required Python libraries on your machine.
+### Installation Methods
 
-- [x] A [**(1) standard**](software/1-standard.md) one is installing the software on your operating system without using the command line interface.
-- [x] A [**(2) minimalist**](software/2-minimalist.md) one will provide basic Python resources and the ability to expand them.
-- [x] A [**(3) comprehensive**](software/3-comprehensive.md) one will install not only a Python stack but also several useful libraries (including some from the programming language, R).
+There are two main approaches to installing the required Python libraries on your machine. You can choose the method that best suits your comfort level and technical expertise.
 
-If you want to learn to explore Python and its capabilities, while going beyond this course, I **recommend option 2**. If all else fails, option 3 is the last resort for this course. It is guaranteed to work and very powerful, so you will not be limited in any way. But it does not allow you to install new libraries, which means you are limited by what it offers.
+### 1. [Graphical Approach](software/1-graphical.md)
 
-```{hint}
-The difference in these options can be explained through the illustration of a living place. If you own a house, you might be able to expand it, paint the walls, add new furniture, even keep a dog. This is akin to the **minimalist** approach which gives you everything you need and the freedom to build upon it. Instead, if you rent a house, in most cases you will not be allowed to make any changes. A **comprehensive** approach gives you everything too, but no freedom to experiment with new python libraries. The **standard** option is like visiting a hotel where others service you for a bit without you having to do the heavy lifting. You choose what works for you!
-```
+This method is suitable for users who are not familiar with the command line interface and prefer a more visual, step-by-step process for installation. It involves using tools that provide a graphical user interface (GUI) to install the necessary packages.
+
+- **No Command-Line Experience Required**: This approach is ideal for beginners or those who prefer not to work with the command line.
+- **Requires More Disk Space**: The graphical installers often include additional software, which means you will need a larger amount of storage space on your machine.
+- **Slower Installation Process**: Since it installs additional dependencies, the setup process may take longer compared to the command-line approach.
+
+### 2. [Command-Line Approach](software/2-cli.md)
+
+This method is recommended for users who are comfortable with or willing to learn how to use the command line. It is a more streamlined way to install only the essential software and dependencies for the course.
+
+- **Requires Command-Line Familiarity**: You'll need to work with the terminal or command prompt, but we will provide clear instructions on the necessary commands. Learning this approach can be valuable for future work in programming and data science.
+- **Less Disk Space Required**: The command-line approach installs only the necessary components, resulting in a more lightweight setup.
+- **Faster Installation Process**: Because it skips installing non-essential extras, this method tends to be quicker.
+
+### Conclusion
+
+Both installation methods will equip you with the required tools for the course. The **graphical approach** is best if you prefer ease of use and don't mind the extra storage space and time required. The **command-line approach** is ideal if you want a faster, more efficient setup and are open to working with terminal commands.
+
+For step-by-step instructions on either method, follow the respective links:
+
+- [Graphical Approach - Detailed Instructions](software/1-graphical.md)
+- [Command-Line Approach - Detailed Instructions](software/2-cli.md)
