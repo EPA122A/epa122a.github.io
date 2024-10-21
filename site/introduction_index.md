@@ -9,18 +9,18 @@ Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. Th
 ## Instructors
 
 ### Dr. Giacomo Marangoni
-**Assistant Professor in Policy Analysis**
+**Assistant Professor in Policy Analysis**  
 [Email: g.marangoni@tudelft.nl](mailto:g.marangoni@tudelft.nl)
 
 ### Dr. Theodoros Chatzivasileiadis
-**Assistant Professor in Policy Analysis**
+**Assistant Professor in Policy Analysis**  
 [Email: t.chatzivasileiadis@tudelft.nl](mailto:t.chatzivasileiadis@tudelft.nl)
 
 ---
 
-**Faculty of Technology, Policy and Management**
-Jaffalaan 5
-2628 BX Delft
+**Faculty of Technology, Policy and Management**  
+Jaffalaan 5  
+2628 BX Delft  
 The Netherlands
 
 ## Schedule
@@ -39,10 +39,10 @@ All lectures, labs, discussions, and office hours will be hosted in person.
 
 | Teaching Assistant 	| Email                                  	| Role            	|
 |--------------------	|----------------------------------------	|-----------------	|
-| Laura van Geene    	| L.A.vanGeene@student.tudelft.nl    	| All             	|
-| Nachiket Kondhalkar      	| N.B.Kondhalkar@student.tudelft.nl 	| All             	|
-| Philip Mueller    	| P.Muller@student.tudelft.nl      	| All
-| Shreya Kejriwal    	| S.M.Kejriwal@student.tudelft.nl      	| All             	|
+| Amin Fakhrmohammadi     	| S.Fakhrmohammadi@student.tudelft.nl> 	| All             	|
+| Aryasatya Adyatama    	| A.Adyatama@student.tudelft.nl      	| All
+| Koen van den Berg    	| K.C.vandenBerg@student.tudelft.nl    	| All             	|
+| Prima Sandy Yonanda    	| PrimaSandyYonanda@student.tudelft.nl     	| All             	|
 
 
 ## Course Language
