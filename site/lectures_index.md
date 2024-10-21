@@ -41,7 +41,7 @@ Before starting the course, watch [this video](https://www.youtube.com/watch?v=8
 (L1)=
 ## Lecture 1 - Spatial Data Science
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -68,7 +68,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -88,7 +88,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -107,7 +107,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -128,7 +128,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 - [Beautiful visualisations](https://surfdrive.surf.nl/files/index.php/s/QwhDIrRVptaLuiU/download)
 - [Principles of Graphical Excellence and other things..](https://surfdrive.surf.nl/files/index.php/s/ssJI19HkpxDgLIJ/download)
 
@@ -152,7 +152,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -174,7 +174,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -196,7 +196,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -215,7 +215,7 @@ You may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -237,7 +237,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -257,7 +257,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -275,7 +275,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -295,7 +295,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -313,7 +313,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture notes PDF [coming soon]
+- Lecture slides PDF [coming soon]
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
