@@ -4,18 +4,16 @@
 
 If you're looking for a more streamlined installation that includes only the essential components needed, the recommended approach is to install Miniconda. This will install a Python distribution natively along with the necessary libraries for this context.
 
-To install Python and the required libraries, follow these steps:
+To install Python and the required libraries, follow the steps below.
 
-1. Install Miniconda for your OS from the [official Miniconda page](https://docs.conda.io/en/latest/miniconda.html).
+### Installing Miniconda
 
-```{attention}
-*To download Miniconda, follow these steps:*
-
+Download Miniconda for your OS:
 1. Go to the [Download Page](https://docs.anaconda.com/miniconda/).
 2. Choose the correct installer for your Windows version (32-bit or 64-bit).
-3. Download the Miniconda installation file. Depending on your browser and setup, it will either download to a default location (e.g., Downloads) or prompt you to choose a location (Desktop is a good option).
-```
----
+3. Download the Miniconda installation file. Depending on your browser and setup, it will either download to a default location (e.g., Downloads) or prompt you to choose a location.
+
+Then, launch the installer and follow the prompts.
 
 ### Setting Up a Virtual Environment
 
@@ -69,7 +67,7 @@ You should now see the name of the environment (e.g., (gds24)) at the beginning 
 
 To verify that the environment was set up correctly, list all installed packages:
 
-    ```shell
+    ```bash
     conda list
     ```
 
@@ -81,6 +79,6 @@ This command will give you a list of the packages installed in this environment.
 
 You can now start Jupyter Lab by running the following command:
 
-    ```shell
+    ```bash
     jupyter lab
     ```

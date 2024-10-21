@@ -41,7 +41,7 @@ Before starting the course, watch [this video](https://www.youtube.com/watch?v=8
 (L1)=
 ## Lecture 1 - Spatial Data Science
 
-- [pdf](lectures/01-introduction.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -68,7 +68,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 ### Slides
 
-- [pdf](lectures/02-data.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -88,7 +88,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 ### Slides
 
-- [pdf](lectures/03-grammar.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -107,7 +107,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 ### Slides
 
-- [pdf](lectures/04-engineering.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -128,9 +128,9 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/05-visualisation.pdf)
-- [Beautiful visualisations](lectures/AYearInGraphicDetail.zip)
-- [Principles of Graphical Excellence and other things..](lectures/ExtraReading.zip)
+- Lecture notes PDF [coming soon]
+- [Beautiful visualisations](https://surfdrive.surf.nl/files/index.php/s/QwhDIrRVptaLuiU/download)
+- [Principles of Graphical Excellence and other things..](https://surfdrive.surf.nl/files/index.php/s/ssJI19HkpxDgLIJ/download)
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -152,7 +152,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/06-geo-visualisation.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -174,7 +174,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/07-space.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -196,7 +196,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/08-esda.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -215,7 +215,7 @@ You may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com
 
 ### Slides
 
-- [pdf](lectures/09-ml-for-everyone.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -237,7 +237,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/10-ml-anatomy.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -257,7 +257,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/11-clustering.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -275,7 +275,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/12-dimensionality-reduction.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -295,7 +295,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/13-points.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
@@ -313,7 +313,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 ### Slides
 
-- [pdf](lectures/14-responsibility.pdf)
+- Lecture notes PDF [coming soon]
 
 ### To do before class [Takes about 1 hour of prep at home]
 
