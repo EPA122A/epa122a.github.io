@@ -21,9 +21,8 @@ chapters:
   #  - file: assignments_index # Assuming you want to add an index for assignments
   - file: software_index
     sections:
-      - file: software/1-standard
-      - file: software/2-minimalist
-      - file: software/3-comprehensive
+      - file: software/1-graphical
+      - file: software/2-cli
       - file: software/environment
   - file: resources_index
   #  - file: project_index
