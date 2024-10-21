@@ -2,7 +2,7 @@
 
 ## A schematic representation of the weekly schedule
 
-[Download](../resources/epa122a-at-a-glance.pdf) the whole course schedule for a summary of all activites, times and deadlines.
+[Download](https://surfdrive.surf.nl/files/index.php/s/xjDOlf5oA2Dv3OU/download) the whole course schedule for a summary of all activites, times and deadlines.
 
 In general,
 

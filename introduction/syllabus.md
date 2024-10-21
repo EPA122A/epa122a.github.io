@@ -63,11 +63,11 @@ Seven weeks of:
 
 ## Assessment
 
-The **summative** [assessments](../assessment_index.md) are `graded` components and contribute to the final mark for the course as follows:
+The [assessments](../assessment_index.md) are composed of 4 `graded` components: 3 are **summative** (i.e. contribute to the final grade) and 1 is **formative** (i.e. does not contribute to the final grade):
 
-* Assignment 1 (15%)
-* Assignment 2 (15%)
-* Assignment 3 (20%)
+* Assignment 1 (20%)
+* Assignment 2 (0%)
+* Assignment 3 (30%)
 * Final Project (50%)
 
 ## A note on exams

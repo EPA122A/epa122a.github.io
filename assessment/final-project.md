@@ -8,18 +8,11 @@ The deadline is in week 10 of the course according to the [schedule](../introduc
 
 ## Final Projects
 
-Choose one of the three projects mentioned below,
+Choose one of the projects mentioned below:
 
-- [A](../project/project-01.pdf) : Mobility, Built Environment & Sustainability
-- [B](../project/project-02.pdf) : Identifying the Health Vulnerability in a City
-- [C](../project/project-03.pdf) : Modelling COVID-19 in India
+TBD
 
-Some examples of good assignments from last years are listed below - [Final projects will be subjected to a plagiraism check, so please do not copy the hypothesis and analysis of students from last year].
-
-- [A](../project/AmbulanceCalls_D.pdf) : Ambulance Calls
-- [B](../project/COVID_D.pdf) : COVID
-- [C](../project/CycleNetwork_D.pdf) : Cycle Network
-- [D](../project/Traffic_D.pdf) : Traffic
+Some examples of good assignments from last years are available for download [in this shared folder](https://surfdrive.surf.nl/files/index.php/s/oa9NywNYSBAa207) [Final projects will be subjected to a plagiarism check, so please do not copy the hypothesis and analysis of students from last year].
 
 ## Milestones (to keep track of your work)
 

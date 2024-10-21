@@ -2,11 +2,10 @@
 
 ## Overview
 
-There are **three** graded assignments in the course. These will assess the programming and reasoning skills developed in the weeks before the assignment submissions. The contents of the assignments will be released according to the [schedule](../introduction/schedule.md).
+There are **three** assignments (2 summative, 1 formative) in the course. These will assess the programming and reasoning skills developed in the weeks before the assignment submissions. The contents of the assignments will be released according to the [schedule](../introduction/schedule.md).
 
-* [Assignment 01](../assignments/assignment-01.zip) - Data Collection and Wrangling (15%)
-* [Assignment 02](../assignments/assignment-02.zip) - Geographic Visualisation (15%)
-* [Assignment 03](../assignments/assignment-03.zip) - Prediction/Inference (20%)
+Assignments will be found in the form of Jupyter Notebooks in the [GitHub repository of the course](https://github.com/EPA122A/epa122a-2024).
+
 
 ### Marking Criteria for assignments
 
