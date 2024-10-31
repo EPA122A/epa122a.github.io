@@ -62,29 +62,3 @@ conda install -n myenv numpy==2.18.4
 ```
 
 Great! You are done!
-
-## Adding the Virtual Environment in Jupyter Notebook/Lab
-
-When you have created your virtual environment and installed Jupyter Lab or Notebook within the environment, at first Jupyter Notebook (being a standalone application) will not recognise the virtual environment. To set up the connection between the two, after activating your virtual environment run this code:
-
-```shell
-pip install --user ipykernel
-```
-​
-This command has added a package called `ipykernel`. Then we can manually add the virtual environment in the Jupyter Notebook. We can use this code:
-
-```shell
-python -m ipykernel install --user --name=myenv
-```
-​
-Where `myenv` is the name of the environment we have created. Now all is ready to be used! You can check in the Jupyter Lab interface or when you create a new Jupyter Notebook. You can see it as in below in the launcher now:
-
-
-![Jupyter Venv](figs/jupyter_venv.png)
-
-Lastly you can remove the virtual environment from Jupyter with:
-
-```shell
-jupyter kernelspec uninstall myenv
-```
-​
