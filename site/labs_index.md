@@ -23,7 +23,7 @@ You can download all the labs, associated datasets, html files showing the outpu
 (lab-0)=
 ## Lab 0 - Tools
 
-- [lab-0](labs/lab-00.zip)
+- Lab-0 notebook [Available 2 days before the corresponding Lab session]
 
 **IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course but does not explain anything directly related to Spatial Data Science.
 
@@ -41,7 +41,7 @@ If you want to explore further by yourself the contents presented in this tutori
 (lab-1)=
 ## Lab 1 - Tidy Data
 
-- [lab-1](labs/lab-01.zip)
+- Lab-1 notebook [Available 2 days before the corresponding Lab session]
 
 ### Data
 
@@ -62,7 +62,7 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 (lab-2)=
 ## Lab 2 - Data Engineering
 
-- [lab-2](labs/lab-02.zip)
+- Lab-2 notebook [Available 2 days before the corresponding Lab session]
 
 ### Data
 
@@ -77,7 +77,7 @@ This session uses two datasets which are provided in the zipped lab files above.
 (lab-3)=
 ## Lab 3 - Geo-Visualisation
 
-- [lab-3](labs/lab-03.zip)
+- Lab-3 notebook [Available 2 days before the corresponding Lab session]
 
 The homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Since this geocomputational lab is not as straightforward as other python code, a **solution set** is also provided for questions indicated in the lab.
 
@@ -100,7 +100,7 @@ This session uses multiple datasets which are provided in the zipped lab files a
 (lab-4)=
 ## Lab 4 - Networks and Spatial Weights
 
-- [lab-4](labs/lab-04.zip)
+- Lab-4 notebook [Available 2 days before the corresponding Lab session]
 
 ### Data
 
@@ -127,7 +127,7 @@ The source data used to compile the file linked above include:
 (lab-5)=
 ## Lab 5 - Linear Regression
 
-- [lab-5](labs/lab-05.zip)
+- Lab-5 notebook [Available 2 days before the corresponding Lab session]
 
 Since this lab is not as straightforward as other python code, a **solution set** is provided for questions indicated in the lab and homework. It is better if you try yourself and get feedback from your peers, and then look at the solutions.
 
@@ -149,7 +149,7 @@ These sets are not that relevant to global urban issues but simple to work with 
 (lab-6)=
 ## Lab 6 - Clustering
 
-- [lab-6](labs/lab-06.zip)
+- Lab-6 notebook [Available 2 days before the corresponding Lab session]
 
 ### Data
 
@@ -186,7 +186,7 @@ The lab also uses an additional file that contains the boundary lines of the Lon
 (lab-7)=
 ## Lab 7 - Points
 
-- [lab-7](labs/lab-07.zip)
+- Lab-7 notebook [Available 2 days before the corresponding Lab session]
 
 ### Data
 
