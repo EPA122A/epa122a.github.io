@@ -4,7 +4,7 @@
 The course is freely available on this website. There are **no online or hybrid meetings**. If you just want all of the course materials and not participate in the course any longer, please unenroll from Brightspace. Thank you.
 ```
 
-Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. The course is taught by Dr Trivik Verma with the support of a fantastic team of teaching assistants.
+Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. The course is taught by Dr. Giacomo Marangoni and Dr. Theodoros Chatzivasileiadis with the support of a fantastic team of teaching assistants.
 
 ## Instructors
 
