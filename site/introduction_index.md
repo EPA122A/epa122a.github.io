@@ -90,7 +90,7 @@ This course is about learning to learn, so if you have a question, follow the pr
 
 Access to materials, including lecture slides and lab notebooks, is centralized through the use of a course website available through the following url:
 
-[`https://epa122a.github.io/index.html`](https://trivikverma.github.io/spatial-data-science/_index.html)
+[`https://epa122a.github.io`](https://epa122a.github.io)
 
 Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and lab, and can be accessed through the course website.
 
