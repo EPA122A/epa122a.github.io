@@ -12,12 +12,6 @@
 8. [Lab 7: Points](lab-7)
 ```
 
-```{tip}
-*DOWNLOAD ALL THE LABS*
-
-You can download all the labs, associated datasets, html files showing the output of the labs, and homework notebooks using the links below.
-```
-
 ***
 
 (lab-0)=
