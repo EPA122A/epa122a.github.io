@@ -96,7 +96,7 @@ Specific readings, videos, and/or podcasts, as well as academic references will 
 
 ## Acknowledgement
 
-This course has been developed using research, input from colleagues at the faculty of Technology, Policy and Management at TU Delft and a few open-source teaching resources on the web. I am incredibly grateful to these developers for offering information openly:
+This course has been developed primarily based on the research and material contributed by Trivik Verma, the previous instructor of the course, along with insights from colleagues at the Faculty of Technology, Policy, and Management at TU Delft. Additional content has been drawn from a few open-source teaching resources on the web. We are incredibly grateful to these contributors for sharing their knowledge openly, as well as:
 
 * Arribas-Bel, D. (2019). [A course on geographic data science](https://jose.theoj.org/papers/10.21105/jose.00042). Journal of Open Source Education, 2(16), 42.
 * Lab Materials extended from Introduction to Data Science taught at Harvard University by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner.
