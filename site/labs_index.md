@@ -17,22 +17,22 @@
 (lab-0)=
 ## Lab 0 - Tools
 
-### Resources
+#### Resources
 
 - **Download Materials:** [Lab 0 & Homework 0 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/qv637XJ3TiHHxWt/download)
 
-### Notebooks
+#### Notebooks
 
 - [Lab 0](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-00/lab-00.ipynb)
 - [Homework 0](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-00/hw-00.ipynb)
 
-### Notes
+#### Notes
 
 **IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course but does not explain anything directly related to Spatial Data Science.
 
 Students are encouraged to read it before getting started with the other notebooks and then keep it as a reference throughout the rest of the course. There are some basic Python operations in there that act as a refresher, practice or learning material, if you may need it.
 
-### Extra Material
+#### Extra Material
 
 If you want to explore further by yourself the contents presented in this tutorial, the following pointers are good places to start:
 
@@ -44,18 +44,18 @@ If you want to explore further by yourself the contents presented in this tutori
 (lab-1)=
 ## Lab 1 - Tidy Data
 
-### Resources
+#### Resources
 
 - **Download Materials:** [Lab 1 & Homework 1 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/UJBpIa4V6CecvOQ/download)
 
-### Notebooks
+#### Notebooks
 
 - [Lab 1 - Part 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-01.ipynb)
 - [Lab 1 - Part 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-02.ipynb)
 - [Lab 1 - Part 3](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-02.ipynb)
 - [Homework 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/hw-01.ipynb)
 
-### Data
+#### Data
 
 This session uses the **"Census socio-demographics"** dataset of The Hague, Netherlands and Liverpool, United Kingdom in two parts. The dataset for this lab is provided in the zipped lab files above.
 
@@ -63,7 +63,7 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 2. Table of LSOA areas in Liverpool with population counts by World region. The table is derived from the CDRC Census data pack.
 3. Collection of socio-demographic characteristics from the 2011 Census for the city of Liverpool.
 
-### Extra Material
+#### Extra Material
 
 * **[Visualization]** Python library `seaborn` [tutorial](http://stanford.edu/~mwaskom/software/seaborn/tutorial.html).
 * [NY Times article](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0) about the importance of cleaning data.
@@ -76,7 +76,7 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 
 - Lab-2 notebook [Available 2 days before the corresponding Lab session]
 
-### Data
+#### Data
 
 This session uses two datasets which are provided in the zipped lab files above.
 
@@ -93,7 +93,7 @@ This session uses two datasets which are provided in the zipped lab files above.
 
 The homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Since this geocomputational lab is not as straightforward as other python code, a **solution set** is also provided for questions indicated in the lab.
 
-### Data
+#### Data
 
 This session uses multiple datasets which are provided in the zipped lab files above.
 
@@ -101,7 +101,7 @@ This session uses multiple datasets which are provided in the zipped lab files a
 2. Shape files for the city of Cape Town from Media Monitoring Africa (MMA) which is an independent watchdog for ethical and fair journalism that upholds human rights. [Source](https://wazimap.co.za/profiles/municipality-CPT-city-of-cape-town/).
 3. Simple datasets on ``heart diseases``, ``titanic`` and a ``mystery`` are also provided.
 
-### Extra Material
+#### Extra Material
 
 * A good introduction to the `geopandas` project is provided by Kelsey Jordahl, the project's founder in this [set of slides](http://kjordahl.github.io/SciPy-Tutorial-2015/#1) from a 2015 talk and the companion [repository](https://github.com/kjordahl/SciPy-Tutorial-2015).
 * An additional great resource is this 4h. [workshop](https://github.com/carsonfarmer/python_geospatial) by Carson Farmer.
@@ -114,7 +114,7 @@ This session uses multiple datasets which are provided in the zipped lab files a
 
 - Lab-4 notebook [Available 2 days before the corresponding Lab session]
 
-### Data
+#### Data
 
 This session uses multiple datasets which are all provided in the zipped lab files above.
 
@@ -143,7 +143,7 @@ The source data used to compile the file linked above include:
 
 Since this lab is not as straightforward as other python code, a **solution set** is provided for questions indicated in the lab and homework. It is better if you try yourself and get feedback from your peers, and then look at the solutions.
 
-### Data
+#### Data
 
 This session uses multiple data files.
 
@@ -163,7 +163,7 @@ These sets are not that relevant to global urban issues but simple to work with 
 
 - Lab-6 notebook [Available 2 days before the corresponding Lab session]
 
-### Data
+#### Data
 
 This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset.
 
@@ -189,7 +189,7 @@ For every polygon, the following variables are provided:
 
 The lab also uses an additional file that contains the boundary lines of the London boroughs provided in the data folder as well.
 
-### Extra Material
+#### Extra Material
 
 * The documentation for [`scikit-learn`](http://scikit-learn.org), a world-class Python library for machine learning, is excellent and includes many examples that cover the entire functionality set of the library.
 
@@ -200,10 +200,10 @@ The lab also uses an additional file that contains the boundary lines of the Lon
 
 - Lab-7 notebook [Available 2 days before the corresponding Lab session]
 
-### Data
+#### Data
 
 This lab uses a sample of geo-referenced locations of photographs taken in Tokyo.
 
-### Extra Material
+#### Extra Material
 
 * A very good resource for kernel density estimation in Python is provided in [this blog post](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/) by Jake Vanderplas.
