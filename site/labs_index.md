@@ -23,7 +23,9 @@ You can download all the labs, associated datasets, html files showing the outpu
 (lab-0)=
 ## Lab 0 - Tools
 
-- Lab-0 notebook [Available 2 days before the corresponding Lab session]
+- Download [zip with Lab 0 & HW 0 notebooks + data](https://surfdrive.surf.nl/files/index.php/s/qv637XJ3TiHHxWt/download)
+- View [Lab 0 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-00/lab-00.ipynb)
+- View [HW 0 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-00/hw-00.ipynb)
 
 **IMPORTANT** This is a supplementary notebook that covers many basics of the tools we will use in the course but does not explain anything directly related to Spatial Data Science.
 
@@ -41,7 +43,11 @@ If you want to explore further by yourself the contents presented in this tutori
 (lab-1)=
 ## Lab 1 - Tidy Data
 
-- Lab-1 notebook [Available 2 days before the corresponding Lab session]
+- Download [zip with Lab 1 & HW 1 notebooks + data](https://surfdrive.surf.nl/files/index.php/s/UJBpIa4V6CecvOQ/download)
+- View [Lab 1 - Part 1 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-01.ipynb)
+- View [Lab 1 - Part 2 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-02.ipynb)
+- View [Lab 1 - Part 3 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/lab-01-part-02.ipynb)
+- View [HW 1 notebook on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-01/hw-01.ipynb)
 
 ### Data
 
