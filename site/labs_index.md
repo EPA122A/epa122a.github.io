@@ -76,7 +76,7 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 
 #### Resources
 
-- **Download Materials:** [Lab 2 & Homework 2 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/XK6UdKXfB9vAT9h)
+- **Download Materials:** [Lab 2 & Homework 2 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/XK6UdKXfB9vAT9h/download)
 
 #### Notebooks
 
