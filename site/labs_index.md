@@ -74,7 +74,15 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 (lab-2)=
 ## Lab 2 - Data Engineering
 
-- Lab-2 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 2 & Homework 2 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/XK6UdKXfB9vAT9h)
+
+#### Notebooks
+
+- [Lab 2 - Part 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-02/lab-02-part-01.ipynb)
+- [Lab 2 - Part 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-02/lab-02-part-02.ipynb)
+- [Homework 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-02/hw-02.ipynb)
 
 #### Data
 
