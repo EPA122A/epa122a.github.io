@@ -41,7 +41,7 @@ Before starting the course, watch [this video](https://www.youtube.com/watch?v=8
 (L1)=
 ## Lecture 1 - Spatial Data Science
 
-- Lecture slides PDF [coming soon]
+- [Lecture 1 Slides PDF](https://surfdrive.surf.nl/files/index.php/s/jQ9B7WrRdIj8ynB/download)
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
