@@ -2,12 +2,25 @@
 
 ## Overview
 
-There are **three** assignments (2 summative, 1 formative) in the course. These will assess the programming and reasoning skills developed in the weeks before the assignment submissions. The contents of the assignments will be released according to the [schedule](../introduction/schedule.md).
+There are **three** assignments (2 summative, 1 formative) in the course. These will assess the programming and reasoning skills developed in the weeks before the assignment submissions. The contents of the assignments will be released according to the [schedule](../introduction/schedule.md). Assignments are in the form of Jupyter Notebooks. You can find them available below.
 
-Assignments will be found in the form of Jupyter Notebooks in the [GitHub repository of the course](https://github.com/EPA122A/epa122a-2024).
+## Notebooks
+
+### Assignment 1
+
+- Assignment 1 Notebook: [Download](https://surfdrive.surf.nl/files/index.php/s/yr14Xyca1WGDHLU/download) | [View on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/assignments/assignment-01.ipynb)
+
+### Assignment 2
+
+- Released on November 25, 2024.
+- Not graded! But we'll give you feedback.
+
+### Assignment 3
+
+- Released on December 9, 2024.
 
 
-### Marking Criteria for assignments
+## Grading Criteria
 
 The following rubric will be used for assessments. See the column with points (2) for what is expected of an ideal assignment. Points will be deducted if elements are missing and/or incorrectly done:
 
