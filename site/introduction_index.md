@@ -9,10 +9,14 @@ Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. Th
 ## Instructors
 
 ### Dr. Giacomo Marangoni
+<img src="https://surfdrive.surf.nl/files/index.php/s/VmwmxdGUYKFN1wU/download" alt="Dr. Giacomo Marangoni" width="150" style="float: left; margin-right: 15px;">
+
 **Assistant Professor in Policy Analysis**  
 [Email: g.marangoni@tudelft.nl](mailto:g.marangoni@tudelft.nl)
 
 ### Dr. Theodoros Chatzivasileiadis
+<img src="https://surfdrive.surf.nl/files/index.php/s/CkkWS8ShOATZAkr/download" alt="Dr. Theodoros Chatzivasileiadis" width="150" style="float: left; margin-right: 15px;">
+
 **Assistant Professor in Policy Analysis**  
 [Email: t.chatzivasileiadis@tudelft.nl](mailto:t.chatzivasileiadis@tudelft.nl)
 
@@ -37,12 +41,12 @@ All lectures, labs, discussions, and office hours will be hosted in person.
 
 ## Teaching Assistant Support
 
-| Teaching Assistant 	| Email                                  	| Role            	|
-|--------------------	|----------------------------------------	|-----------------	|
-| Amin Fakhrmohammadi     	| S.Fakhrmohammadi@student.tudelft.nl> 	| All             	|
-| Aryasatya Adyatama    	| A.Adyatama@student.tudelft.nl      	| All
-| Koen van den Berg    	| K.C.vandenBerg@student.tudelft.nl    	| All             	|
-| Prima Sandy Yonanda    	| PrimaSandyYonanda@student.tudelft.nl     	| All             	|
+| Teaching Assistant  | Email                                |   |
+|---------------------|--------------------------------------|---|
+| Aryasatya Adyatama  | A.Adyatama@student.tudelft.nl        |   |
+| Koen van den Berg   | K.C.vandenBerg@student.tudelft.nl    |   |
+| Amin Fakhrmohammadi | S.Fakhrmohammadi@student.tudelft.nl  |   |
+| Prima Sandy Yonanda | PrimaSandyYonanda@student.tudelft.nl |   |
 
 
 ## Course Language
