@@ -9,17 +9,20 @@ Welcome to Spatial Data Science (EPA 122A) at Delft University of Technology. Th
 ## Instructors
 
 ### Dr. Giacomo Marangoni
+<div style="overflow: auto; margin-bottom: 20px;">
 <img src="https://surfdrive.surf.nl/files/index.php/s/VmwmxdGUYKFN1wU/download" alt="Dr. Giacomo Marangoni" width="150" style="float: left; margin-right: 15px;">
 
 **Assistant Professor in Policy Analysis**  
 [Email: g.marangoni@tudelft.nl](mailto:g.marangoni@tudelft.nl)
+</div>
 
 ### Dr. Theodoros Chatzivasileiadis
+<div style="overflow: auto; margin-bottom: 20px;">
 <img src="https://surfdrive.surf.nl/files/index.php/s/CkkWS8ShOATZAkr/download" alt="Dr. Theodoros Chatzivasileiadis" width="150" style="float: left; margin-right: 15px;">
 
 **Assistant Professor in Policy Analysis**  
 [Email: t.chatzivasileiadis@tudelft.nl](mailto:t.chatzivasileiadis@tudelft.nl)
-
+</div>
 ---
 
 **Faculty of Technology, Policy and Management**  
