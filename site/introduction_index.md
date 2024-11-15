@@ -44,12 +44,13 @@ All lectures, labs, discussions, and office hours will be hosted in person.
 
 ## Teaching Assistant Support
 
-| Teaching Assistant  | Email                                |   |
-|---------------------|--------------------------------------|---|
-| Aryasatya Adyatama  | A.Adyatama@student.tudelft.nl        |   |
-| Koen van den Berg   | K.C.vandenBerg@student.tudelft.nl    |   |
-| Amin Fakhrmohammadi | S.Fakhrmohammadi@student.tudelft.nl  |   |
-| Prima Sandy Yonanda | PrimaSandyYonanda@student.tudelft.nl |   |
+| Teaching Assistant                                                              |                     | Email                                |
+|---------------------------------------------------------------------------------|---------------------|--------------------------------------|
+| ![Arya](https://surfdrive.surf.nl/files/index.php/s/Lo6didf5uBu9vQ4/download)   | Aryasatya Adyatama  | A.Adyatama@student.tudelft.nl        |
+| ![Koen](https://surfdrive.surf.nl/files/index.php/s/ByookigB4SIm5ud/download)   | Koen van den Berg   | K.C.vandenBerg@student.tudelft.nl    |
+| ![Amin](https://surfdrive.surf.nl/files/index.php/s/OzT4pmdjhTX8T0D/download)   | Amin Fakhrmohammadi | S.Fakhrmohammadi@student.tudelft.nl  |
+| ![Adrien](https://surfdrive.surf.nl/files/index.php/s/WZEgtzaWztRPsxY/download) | Adrien Poujon       | A.Poujon@tudelft.nl                  |
+| ![Prima](https://surfdrive.surf.nl/files/index.php/s/jaLxfh6TdXvVmnu/download)  | Prima Sandy Yonanda | PrimaSandyYonanda@student.tudelft.nl |
 
 
 ## Course Language
