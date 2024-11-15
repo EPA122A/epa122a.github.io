@@ -39,7 +39,9 @@ Before starting the course, watch [this video](https://www.youtube.com/watch?v=8
 ***
 
 (L1)=
-## Lecture 1 - Spatial Data Science
+## Lecture 1 - Introduction
+
+**Slides**  
 
 - [Lecture 1 Slides PDF](https://surfdrive.surf.nl/files/index.php/s/jQ9B7WrRdIj8ynB/download)
 
@@ -64,11 +66,11 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 ***
 
 (L2)=
-## Lecture 2 - Spatial and Urban Data
+## Lecture 2 - Data
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
+- [Lecture 2 Slides PDF](https://surfdrive.surf.nl/files/index.php/s/HBTHhG8TkQJzTW4/download)
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
