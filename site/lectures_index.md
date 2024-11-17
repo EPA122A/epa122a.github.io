@@ -88,8 +88,8 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
-
+- [Lecture slides PDF](https://surfdrive.surf.nl/files/index.php/s/YAAX94VazRqLgbB/download)
+  
 **To do before class [Takes about 1 hour of prep at home]**  
 
 * Read a very influential pro-big data/data science article, [The End of Theory](https://www.wired.com/2008/06/pb-theory/) by Chris Anderson, the editor in chief of _Wired_.
@@ -107,8 +107,8 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
-
+- [Lecture slides PDF](https://surfdrive.surf.nl/files/index.php/s/J2kZjdKoAPD8RAG/download)
+  
 **To do before class [Takes about 1 hour of prep at home]**  
 
 * Read a short blog on [Why, How and When to Scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
