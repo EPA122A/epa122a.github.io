@@ -127,8 +127,8 @@ The contents of this lecture are loosely based on, and explored into further det
 ## Lecture 5 - EDA and Visualisation
 
 **Slides**  
+- [Lecture slides PDF](https://surfdrive.surf.nl/files/index.php/s/Npp9b0lc4eWiD1t/download)
 
-- Lecture slides PDF [coming soon]
 - [Beautiful visualisations](https://surfdrive.surf.nl/files/index.php/s/QwhDIrRVptaLuiU/download)
 - [Principles of Graphical Excellence and other things..](https://surfdrive.surf.nl/files/index.php/s/ssJI19HkpxDgLIJ/download)
 
