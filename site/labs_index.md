@@ -97,7 +97,14 @@ This session uses two datasets which are provided in the zipped lab files above.
 (lab-3)=
 ## Lab 3 - Geo-Visualisation
 
-- Lab-3 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 3 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/JoKvDXxL6Hb15zD/download)
+
+#### Notebooks
+
+- [Lab 3 - Part 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-03/lab-03-part-01.ipynb)
+- [Lab 3 - Part 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-03/lab-03-part-02.ipynb)
 
 The homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Since this geocomputational lab is not as straightforward as other python code, a **solution set** is also provided for questions indicated in the lab.
 
