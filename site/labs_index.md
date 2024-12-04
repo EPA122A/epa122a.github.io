@@ -127,7 +127,15 @@ This session uses multiple datasets which are provided in the zipped lab files a
 (lab-4)=
 ## Lab 4 - Networks and Spatial Weights
 
-- Lab-4 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 4 & Homework 4 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/PD3aIcAr9DBcTMT/download)
+
+#### Notebooks
+
+- [Lab 4 - Part 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-04/lab-04-part-01.ipynb)
+- [Lab 4 - Part 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-04/lab-04-part-02.ipynb)
+- [Homework 4](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-04/hw-04.ipynb)
 
 #### Data
 
