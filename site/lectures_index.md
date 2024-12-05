@@ -211,8 +211,6 @@ The contents of this lecture are loosely based on, and explored into further det
 (L9)=
 ## Lecture 9 - Machine Learning for Everyone
 
-You may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) as _some_ chapters will be used in _some_ topics from this point onwards and it is generally a fantastic book to have. If you cannot or do not want to spend $20.00 on the e-copy, email me, and we will figure something out. The author has invested a lot in writing this book, and it is an excellent resource on Machine Learning, even beyond this class.
-
 **Slides**  
 
 - Lecture slides PDF [coming soon]
@@ -226,7 +224,7 @@ You may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com
 
 The contents of this lecture are loosely based on, and explored into further detail, in the following two references :
 
-* Chapter 1 and section 3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
+* Chapter 1 and section 3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov. In general, you may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) as _some_ chapters will be used in _some_ topics from this point onwards and it is generally a fantastic book to have. The author has invested a lot in writing this book, and it is an excellent resource on Machine Learning, even beyond this class.
 * [A Visual Introduction to Machine Learning by r2d3 - Part II: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 
