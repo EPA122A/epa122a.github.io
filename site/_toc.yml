@@ -16,6 +16,13 @@ chapters:
     sections:
       - file: assessment/assignment
       - file: assessment/final-project
+      - file: assessment/final-project
+      - file: assessment/final-project
+      - file: assessment/final-project
+        sections:
+          - file: fp/final-project-climate-justice
+          - file: fp/final-project-rooftop-pv
+          - file: fp/final-project-climate-opinions            
       #     - file: assessment/project-details # Add this if you want to include project-details.md
       - file: assessment/project-template
   #  - file: assignments_index # Assuming you want to add an index for assignments
