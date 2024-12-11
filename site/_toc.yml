@@ -16,25 +16,15 @@ chapters:
     sections:
       - file: assessment/assignment
       - file: assessment/final-project
-      - file: assessment/final-project
-      - file: assessment/final-project
-      - file: assessment/final-project
         sections:
           - file: fp/final-project-climate-justice
           - file: fp/final-project-rooftop-pv
-          - file: fp/final-project-climate-opinions            
-      #     - file: assessment/project-details # Add this if you want to include project-details.md
+          - file: fp/final-project-climate-opinions
       - file: assessment/project-template
-  #  - file: assignments_index # Assuming you want to add an index for assignments
   - file: software_index
     sections:
       - file: software/1-graphical
       - file: software/2-cli
       - file: software/environment
   - file: resources_index
-  #  - file: project_index
-  #    sections:
-  #      - file: project/project-01.ipynb
-  #      - file: project/project-02.ipynb
-  #      - file: project/project-03.ipynb
   - file: faq_index
