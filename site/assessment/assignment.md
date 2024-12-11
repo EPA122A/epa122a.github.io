@@ -9,15 +9,17 @@ There are **three** assignments (2 summative, 1 formative) in the course. These 
 #### Assignment 1
 
 - Assignment 1 Notebook: [Download](https://surfdrive.surf.nl/files/index.php/s/yr14Xyca1WGDHLU/download) | [View on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/assignments/assignment-01.ipynb)
+- **Graded!**
 
 #### Assignment 2
 
-- [Download](https://surfdrive.surf.nl/files/index.php/s/eHuc70jcOUIxpDT/download) | [View on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/assignments/assignment-02.ipynb)
+- Assignment 2 Notebook: [Download](https://surfdrive.surf.nl/files/index.php/s/eHuc70jcOUIxpDT/download) | [View on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/assignments/assignment-02.ipynb)
 - Not graded! But we'll give you feedback.
 
 #### Assignment 3
 
-- Released on December 9, 2024.
+- Assignment 3 Notebook: [Download](https://surfdrive.surf.nl/files/index.php/s/ggSsCe0kCOBsjF8/download) | [View on GitHub](https://github.com/EPA122A/epa122a-2024/blob/main/assignments/assignment-03.ipynb)
+- **Graded!**
 
 ## Submission
 
