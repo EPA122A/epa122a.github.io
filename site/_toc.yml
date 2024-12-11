@@ -17,9 +17,9 @@ chapters:
       - file: assessment/assignment
       - file: assessment/final-project
         sections:
-          - file: fp/final-project-climate-justice
-          - file: fp/final-project-rooftop-pv
-          - file: fp/final-project-climate-opinions
+          - file: assessment/fp/final-project-climate-justice
+          - file: assessment/fp/final-project-rooftop-pv
+          - file: assessment/fp/final-project-climate-opinions
       - file: assessment/project-template
   - file: software_index
     sections:

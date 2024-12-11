@@ -10,9 +10,9 @@ The deadline is in week 10 of the course according to the [schedule](../introduc
 
 Choose one of the projects mentioned below:
 
-- [Socio-economic vulnerability, climate risks and climate justice](fp/final-project-climate-justice.md)
-- [Feasibility and fairness of rooftop solar energy diffusion](fp/final-project-rooftop-pv.md)
-- [Vulnerability to weather disasters and public support for climate action](fp/final-project-climate-opinions.md)
+- [Socio-economic vulnerability, climate risks and climate justice](fp/final-project-climate-justice)
+- [Feasibility and fairness of rooftop solar energy diffusion](fp/final-project-rooftop-pv)
+- [Vulnerability to weather disasters and public support for climate action](fp/final-project-climate-opinions)
 - Other (if it relates to processes happening spatially and uses spatial data science to understand those processes)
 
 Some examples of good assignments from last years are available for download [in this shared folder](https://surfdrive.surf.nl/files/index.php/s/oa9NywNYSBAa207) [Final projects will be subjected to a plagiarism check, so please do not copy the hypothesis and analysis of students from last year].
