@@ -162,7 +162,15 @@ The source data used to compile the file linked above include:
 (lab-5)=
 ## Lab 5 - Linear Regression
 
-- Lab-5 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 5 & Homework 5 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/tvNqOlvMw6q4a7A/download)
+
+#### Notebooks
+
+- [Lab 5 - Part 1](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-05/lab-05-part-01.ipynb)
+- [Lab 5 - Part 2](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-05/lab-05-part-02.ipynb)
+- [Homework 5](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-05/hw-05.ipynb)
 
 Since this lab is not as straightforward as other python code, a **solution set** is provided for questions indicated in the lab and homework. It is better if you try yourself and get feedback from your peers, and then look at the solutions.
 
