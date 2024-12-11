@@ -209,11 +209,11 @@ The contents of this lecture are loosely based on, and explored into further det
 ***
 
 (L9)=
-## Lecture 9 - Machine Learning for Everyone
+## Lecture 9 - Introduction to Machine Learning
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
+- [Lecture slides PDF](https://surfdrive.surf.nl/files/index.php/s/Puec2zYmtzt3h3P/download)
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
