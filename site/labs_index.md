@@ -192,7 +192,14 @@ These sets are not that relevant to global urban issues but simple to work with 
 (lab-6)=
 ## Lab 6 - Clustering
 
-- Lab-6 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 6 & Homework 6 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/QRxW7MgfT42F0KW/download)
+
+#### Notebooks
+
+- [Lab 6](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-06/lab-06_Rio.ipynb)
+- [Homework 6](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-06/hw-06.ipynb)
 
 #### Data
 
