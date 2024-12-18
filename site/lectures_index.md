@@ -255,7 +255,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
+- [Lecture slides PDF](https://surfdrive.surf.nl/files/index.php/s/2yeWdF4KEtJJmDt/download)
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
