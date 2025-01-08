@@ -236,7 +236,14 @@ The lab also uses an additional file that contains the boundary lines of the Lon
 (lab-7)=
 ## Lab 7 - Points
 
-- Lab-7 notebook [Available 2 days before the corresponding Lab session]
+#### Resources
+
+- **Download Materials:** [Lab 7 & Homework 7 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/9mJDjRSuIVd7HeL/download)
+
+#### Notebooks
+
+- [Lab 7](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-07/lab-07.ipynb)
+- [Homework 7](https://github.com/EPA122A/epa122a-2024/blob/main/labs/lab-07/hw-07.ipynb)
 
 #### Data
 
