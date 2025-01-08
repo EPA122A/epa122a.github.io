@@ -293,7 +293,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
+- [Lecture slides PDF} (https://surfdrive.surf.nl/files/index.php/s/FzS6EJIEMZ9LChB/download)
 
 **To do before class [Takes about 1 hour of prep at home]**  
 
@@ -311,8 +311,7 @@ The contents of this lecture are loosely based on, and explored into further det
 
 **Slides**  
 
-- Lecture slides PDF [coming soon]
-
+- [Lecture slides PDF] (https://surfdrive.surf.nl/files/index.php/s/vlUontNUWLMwojI/download)
 **To do before class [Takes about 1 hour of prep at home]**  
 
 * Read [A city is not a computer](https://placesjournal.org/article/a-city-is-not-a-computer/?cn-reloaded=1), Shannon Mattern which carefully examines the limitations of computation in bettering the human condition.
