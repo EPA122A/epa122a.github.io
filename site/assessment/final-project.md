@@ -55,5 +55,5 @@ you used to explore the data (initial explorations, data cleaning and reconcilia
 ### 4. Project Report
 Submit your final project on Brightspace as a **pdf** (only one submission per group).
 - Use the [project template](project-template.md) to write the final report.
-- You will be assessed using a [project rubric](../resources/project-rubric.pdf).
+- You will be assessed using a [project rubric](https://surfdrive.surf.nl/files/index.php/s/XMUdptdcKrJpNbZ/download).
 - You are required to also submit a peer evaluation of each team member on Buddycheck through Brightspace which may or may not affect your grade depending on the reports.
