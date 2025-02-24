@@ -21,5 +21,7 @@ A set of homework questions will follow the In-Class Lab sessions to further con
 ## Summative
 
 These are graded components and contribute to the final mark for the course as follows:
-- Assignments - Individual learning (50%, with Assignment 1 weighing 20% and Assignment 3 weighing 30% given the increasing difficulty)
+- Assignments - Individual learning (50%)
+  - Assignment 1 (20%)
+  - Assignment 3 (30% - higher weight due to increased difficulty)
 - Final Project - Group learning (50%)
