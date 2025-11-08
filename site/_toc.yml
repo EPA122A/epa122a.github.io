@@ -6,7 +6,6 @@ root: index
 chapters:
   - file: introduction_index
     sections:
-      - file: introduction/tobeginwith
       - file: introduction/overview
       - file: introduction/syllabus
       - file: introduction/schedule

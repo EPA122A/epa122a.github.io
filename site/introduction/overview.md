@@ -2,34 +2,22 @@
 
 ## What is Spatial Data Science?
 
-### Urbanisation
-Historically, humans have always migrated to dense spatial agglomerations for social interactions, exchange of goods, services, information and ideas. These spaces also witness growing inequalities. Globally, this trend is holding stead, and cities are expected to accommodate over 80% of the world population by 2050. The unprecedented development is tightly linked to the most pressing functional and environmental challenges confronting society.
+Spatial Data Science combines data analysis, geography, and computational methods to understand patterns and relationships that have a spatial dimension. From environmental monitoring to social research, spatial data helps reveal how location influences outcomes and decisions.
 
-Multiple cities in the world are at the brink of collapse, suffering from poverty and segregation, excessive consumption, pollution and associated changes in climate, depleting agricultural utility and in exceptional cases, submergence of land. Lacking resources to solve such problems, some cities are directing further development to satellite centres like Accra in Ghana or Cairo in Egypt. Jakarta, home to 60% of the Indonesian population, is considering relocating its capital city to the rainforests of Borneo because of rising sea levels. Rapidly urbanising cities are also making tremendous efforts to become smarter, sustainable, resilient and inclusive. But how? Transforming from a manufacturing to an information economy in the last few decades, urban regions around the world have witnessed ever-increasing inequalities. Multiple low-income communities have suffered adverse social, economic and environmental consequences, while others have been pushed into worse forms of inequality.
+Recent advances in computing, open data, and machine learning have expanded what we can learn from spatial information. However, as data scientists, we must also consider the limitations and biases of data, and how analytical choices shape the knowledge we produce. Responsible spatial analysis means questioning data quality, representation, and impact, while striving to create insights that are transparent, reproducible, and fair.
 
-### Spatial Data
-In the last decade, technological advancements have led us to embed large-scale networked systems, sensors and computers into the built environment. Urban data has emerged as an excellent stream of constant, real-time and accurate information about all urban activities. The big data revolution, coupled with the capacity of infrastructure to be “smart” has enticed cities and urban managers worldwide to participate in machine learning-based decision making for improving the course of humanity. But city planning has largely been instituted around loosely coupled organisations within municipal and regional governments, project developers, companies and investors, transport, water and energy operators. While some communities have enjoyed the benefits of policies based on the use of big data, machine learning and AI, many have also suffered disproportionately by being pushed to the physical and technological periphery of rapid development in cities. As a data scientist, and especially an engineer and policy analyst, it is our responsibility to interrogate the quality of data and evaluate their impact on communities. Furthermore, it is imperative to understand how **data science contributes to the social mechanisms that reproduce inequality, oppression, racism, and politics and power dynamics, and production of good knowledge**.
+## What is this course about?
 
-## Course Contents — What is this class about?
+This course introduces the full process of data-driven spatial analysis, from gathering and cleaning data to modeling and interpreting results. You will learn practical tools for exploring, visualizing, and analyzing spatial datasets while reflecting on their broader implications for research and policy.
 
-The primary purpose of this course is to teach future data scientists to look beyond the technical power of artificial intelligence and recognise the possibilities and limitations of data and the spatial inequalities that galvanise as a result of data-driven policy. This course will engage students at the intersection of data science, urbanisation, and effective communication. By interrogating the sociotechnical nature of urban problems, students should be able to approach solutions to these problems in ways that prioritise social equity and justice.
+Throughout the semester, we move from foundational data science concepts to more advanced spatial and machine learning techniques. You will start by learning how to obtain and clean data, then progress through exploratory data analysis, visualization, statistical and machine learning models, and finally the interpretation and communication of results. Labs and discussions will reinforce these skills through applied exercises and collaborative projects.
 
-This class will train students to gather, fuse and clean data from multiple sources, in order to gain useful insights into the reality of multiple problems in urban ecosystems, understand and estimate alternative implications of solutions, and communicate results to a wide audience effectively.
+## Learning Outcomes
 
-The course is divided into five major modules, each focusing on crucial steps in the lifecycle of a data science project.
+By the end of the course, you will be able to:
 
-1. Obtain: Obtaining data from multiple **open** data sources.
-2. Scrub: Data cleaning, munging, sampling to consolidate all information into a dataset that is manageable, informative and relates to your problem.
-3. Explore: Exploratory data analysis to make sense of the data.
-4. Model: Estimation and modelling based on statistical tools such as regression and clustering.
-5. Interpret: Communicating results and reflections through visualisation, storytelling and interpretable summaries.
-
-## Pedagogical Goals
-
-After completion of this course, you will be able to:
-
-* interpret and discuss data sources that are usable and relatable for a problem presented.
-* manipulate data and consolidate all information into a dataset that is manageable, informative and relates to your problem.
-* describe and analyse the consolidated dataset(s) to support your problem with evidence.
-* apply models using statistical and machine learning to infer results in the process of turning data into valuable information.
-* report results and reflections through visualisation, storytelling and interpretable summaries, especially when faced with a new dataset.
+* Identify and evaluate appropriate data sources for a given problem.
+* Clean, merge, and manage datasets from multiple origins.
+* Explore and visualize data to uncover meaningful patterns.
+* Apply statistical and machine learning models for analysis.
+* Communicate results effectively through maps, graphics, and written interpretation.

@@ -46,12 +46,9 @@ All lectures, labs, discussions, and office hours will be hosted in person.
 
 | Teaching Assistant                                                              |                     | Email                                |
 |---------------------------------------------------------------------------------|---------------------|--------------------------------------|
-| ![Arya](https://surfdrive.surf.nl/files/index.php/s/Lo6didf5uBu9vQ4/download)   | Aryasatya Adyatama  | A.Adyatama@student.tudelft.nl        |
-| ![Koen](https://surfdrive.surf.nl/files/index.php/s/ByookigB4SIm5ud/download)   | Koen van den Berg   | K.C.vandenBerg@student.tudelft.nl    |
-| ![Amin](https://surfdrive.surf.nl/files/index.php/s/OzT4pmdjhTX8T0D/download)   | Amin Fakhrmohammadi | S.Fakhrmohammadi@student.tudelft.nl  |
+|                                                                                 | Vincent Jansse      | V.D.Jansse@student.tudelft.nl        |
+| ![Evalie](https://surfdrive.surf.nl/s/L68iqywNgyNpzjY/download)                 | Evalie van Oijen    | E.I.vanOijen@student.tudelft.nl      |
 | ![Adrien](https://surfdrive.surf.nl/files/index.php/s/WZEgtzaWztRPsxY/download) | Adrien Poujon       | A.Poujon@tudelft.nl                  |
-| ![Prima](https://surfdrive.surf.nl/files/index.php/s/jaLxfh6TdXvVmnu/download)  | Prima Sandy Yonanda | PrimaSandyYonanda@student.tudelft.nl |
-
 
 ## Course Language
 
@@ -61,7 +58,7 @@ English & Python
 
 * **General purpose** programming language
 * "Sweet spot" between *"proof-of-concept"* and *"production-ready"*
-* Industry standard: **GIS** (Esri, QGIS) and **Data Science** (World Bank, OECD, The Atlantic, Gemeente Den Haag...)
+* Industry standard: **Data Science** (World Bank, OECD, The Atlantic, Gemeente Den Haag...) and **GIS** (Esri, QGIS)
 
 ## Expected prior knowledge
 
@@ -81,18 +78,33 @@ For students who have had statistical, math or computer programming courses in t
 - Emphasis on **critical thinking**, **application** and **use**
 - Close connection to **real world** applications
 
-## Feedback strategy
+Here’s an improved and more polished version of your **Feedback Strategy** section — clearer, better structured, and consistent with academic web style:
 
-The students will receive feedback through the following channels:
+---
 
-* **Formative Feedback** weekly general feedback on labs by TAs and direct interaction with the instructor and teaching assistants in the lectures and labs.
-* **Summative Feedback** as graded assessment of three summative assignments and a final project. This will be in the form of reasoning of the mark assigned as well as comments specifying how the mark could be improved. This will be provided before the submission of the next assignment is due so students have the chance to incorporate the feedback in their work.
+## Feedback Strategy
+
+Students will receive feedback throughout the course through both **formative** and **summative** channels:
+
+* **Formative Feedback**
+  Ongoing feedback will be provided during **weekly lab sessions**, where students interact directly with the **teaching assistants and instructors**. General feedback on lab work will help identify areas for improvement.
+  A **mid-term assignment** will also be given to provide comments on performance, including suggestions on how to improve ahead of the final assessments. This ensures students have the opportunity to **incorporate feedback into their summative work**.
+
+* **Summative Feedback**
+  Final, graded feedback will be provided based on two main assessments:
+
+  1. A **group final project**, evaluating collaborative work across the full data science workflow.
+  2. An **individual computer-based exam**, assessing individual understanding and technical proficiency.
+
 
 ## Questions
 
-This course is about learning to learn, so if you have a question, follow the process laid out below for the most efficient and organised way of learning.
+This course emphasizes **learning how to learn**. If you have questions or need clarification, please reach out using the following order of preference:
 
- ![mindmap](introduction/mindmap.png)
+1. Ask **during class** discussions.
+2. Bring your question to **lab sessions**.
+3. Contact the **teaching assistants (TAs)** by email.
+4. As a last resort, email the **professors** directly.
 
 ## Key texts and learning resources
 
@@ -100,7 +112,7 @@ Access to materials, including lecture slides and lab notebooks, is centralized 
 
 [`https://epa122a.github.io`](https://epa122a.github.io)
 
-Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and lab, and can be accessed through the course website.
+References to additional material will be provided for each lecture and lab.
 
 ## Acknowledgement
 

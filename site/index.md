@@ -1,20 +1,23 @@
 # EPA 122A Spatial Data Science
 
 ## Overview
-Urban planners, policymakers, and key decision-making stakeholders use data and data-based infrastructures to govern various urban systems from operations to planning, optimization, and distribution of resources. This course will introduce you to practices in data analysis and computational methods in the context of urban planning. It will illustrate how data can be used and misused, and how to critically evaluate datasets, models, and questions that arise from them. While learning how to collect, transform, and analyze data using machine learning techniques for understanding urban phenomena, you will learn about the process of data science and its positive and negative impacts on people and places.
+
+This course trains students to **gather, merge, and clean data from multiple sources**, focusing on societal challenges through a **data-driven spatial lens**. Using data science, students will explore complex topics such as **climate change**, **energy transition**, and **spatial inequalities**, understanding how to inform policymakers to better address the challenge of balancing equitable opportunities for citizens with sustainable development. Through this course, students will learn how data science can be used to **understand and estimate the implications of policies and interventions**, and how to **communicate results effectively** to a broad audience.
 
 ## Learning Outcomes
+
 After successful completion of this course, you will be able to:
 
-- **Interpret and discuss spatial data sources** that are usable and relatable for a problem presented.
-- **Transform spatial data and consolidate** all information into a dataset that is manageable, informative, and relates to your problem.
-- **Describe and analyze the consolidated spatial datasets** to support your problem with evidence.
-- **Apply models using statistical techniques and machine learning** to infer results in the process of turning spatial data into valuable information.
-- **Report results and reflections** through visualization, mapping, storytelling, and interpretable summaries, especially when faced with a new dataset.
+* **Interpret and discuss data sources** that are usable and relevant to a presented problem.
+* **Manipulate and consolidate data** into manageable, informative datasets that address your research question.
+* **Describe and analyze datasets** to support evidence-based problem solving.
+* **Apply statistical and machine learning models** to transform data into meaningful insights.
+* **Report and communicate results** through visualization, storytelling, and clear, interpretable summaries.
 
 ## Career Prospects
-- Hopefully get great data-driven policy, governance, or civil society jobs in the future.
-- Go on adventurous and sustainable journeys with an open mind.
+
+This course equips you with practical and conceptual skills for roles in **data-driven policy, climate governance, sustainable planning, and research**. It prepares you to become a **responsible data scientist, policymaker, or academic**, capable of applying open and ethical data practices to real-world challenges.
 
 ## Ethical Considerations
-- **Most importantly**, become mindful of how ML and data can disrupt and impact the lives of multiple communities.
+
+Throughout the course, students are encouraged to think critically about **bias, fairness, and societal implications** in data-driven decision-making.
