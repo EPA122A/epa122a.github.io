@@ -4,13 +4,11 @@ on:
   push:
     branches:
       - main
-  # Optional: allow manual deploys
   workflow_dispatch:
 
 env:
   BASE_URL: /${{ github.event.repository.name }}
 
-# Only one deployment at a time; allow in-progress runs to finish
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -30,7 +28,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -38,13 +36,13 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build Jupyter Book
-        run: |
-          jupyter-book build site
+        working-directory: site
+        run: jupyter-book build .
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site/_build/html
+          path: "site/_build/html"
 
   deploy:
     environment:
