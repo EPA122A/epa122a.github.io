@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Project Details
 
 ## 1. Relationship between mobility, built environment and environmental sustainability indicators of a city

@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # 📚 Helping Material
 
 Our teaching support team has prepared and updated two wonderful resources for the students. There is one resource on programming support. You can find links to library documentation, data science practices, analysis and much more. Another resources is on debugging. Everytime your program fails to do what you expected of it, go to this resource first.

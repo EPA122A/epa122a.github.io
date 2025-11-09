@@ -34,7 +34,8 @@ project:
         - file: software/environment.md
     - file: resources_index.md
     - file: faq_index.md
-    
+  plugins:
+    - plugins/update-date-frontmatter.mjs    
 site:
   template: book-theme
   # options:

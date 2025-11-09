@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Markdown Files
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or

@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Command-Line Installation
 
 ## A Minimalist Approach: Miniconda (Recommended for Long-Term Learning)
@@ -23,7 +27,7 @@ But first, **what are environments, and why do you need them?**
 
 Environments in Python function like isolated sandboxes that allow you to install different versions of Python and packages without affecting other projects. You can create, list, update, and remove environments easily, and switch between them by "activating" or "deactivating" as needed.
 
-For this course, we will control the packages installed by creating an environment using a YAML file called [environment-gds24.yml](https://surfdrive.surf.nl/files/index.php/s/B3iEVHnRM4jRX8k/download).
+For this course, we will control the packages installed by creating an environment using a YAML file called [environment-gds25.yml](https://surfdrive.surf.nl/s/xgW9nLc6EpYaHaY/download).
 
 > To learn more about virtual environments, visit [this page](environment.md).
 
@@ -37,7 +41,7 @@ Open a terminal depending on your operating system:
 
 Next, follow these steps:
 
-1. Download the [environment-gds24.yml file](https://surfdrive.surf.nl/files/index.php/s/B3iEVHnRM4jRX8k/download).
+1. Download the [environment-gds25.yml file](https://surfdrive.surf.nl/files/index.php/s/B3iEVHnRM4jRX8k/download).
 2. Navigate to the folder where the file is located (e.g., Downloads):
 
     ```bash
@@ -47,7 +51,7 @@ Next, follow these steps:
 3. Run the following command to create the environment (note that a stable internet connection is required, and it may take some time):
 
     ```bash
-    conda env create -f environment-gds24.yml
+    conda env create -f environment-gds25.yml
     ```
 
 ```{tip}
@@ -60,16 +64,16 @@ Depending on your internet speed, this may take 15–20 minutes. Grab a *cuppa* 
 Once the environment is created, you need to activate it:
 
 ```bash
-conda activate gds24
+conda activate gds25
 ```
 
-You should now see the name of the environment (e.g., (gds24)) at the beginning of your command prompt.
+You should now see the name of the environment (e.g., (gds25)) at the beginning of your command prompt.
 
 To verify that the environment was set up correctly, list all installed packages:
 
-    ```bash
-    conda list
-    ```
+```bash
+conda list
+```
 
 ```{note}
 This command will give you a list of the packages installed in this environment. For managing your environment or learning more about what environments are capable of, go to [Manage conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
@@ -79,6 +83,6 @@ This command will give you a list of the packages installed in this environment.
 
 You can now start Jupyter Lab by running the following command:
 
-    ```bash
-    jupyter lab
-    ```
+```bash
+jupyter lab
+```

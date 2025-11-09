@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # To Begin With
 
 ```{attention}

@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # 💁🏽‍♂️ FAQ
 
 ## Late Assignments

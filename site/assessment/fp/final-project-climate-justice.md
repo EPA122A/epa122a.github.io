@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Project: Socio-economic vulnerability and climate risks
 **Contact:** Theodoros Chatzivasileiadis
 

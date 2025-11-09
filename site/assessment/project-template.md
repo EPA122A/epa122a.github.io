@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Project Template
 
 ## An outline for writing a data science article

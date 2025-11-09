@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # 🐍 Software Installation
 
 To get the most out of this course, it is highly recommended that you reproduce the examples and tutorials provided. This hands-on approach will allow you to better understand the concepts and apply the techniques we cover. To achieve this, you will need to install several software packages on your machine. All of the required software is open-source and available for free.

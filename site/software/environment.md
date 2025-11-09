@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Virtual Environments
 
 Data Science sometimes requires the ability to be able to handle the overlapping of package dependencies in python which can disturb your working environment. Sometimes you might be experimenting with an earlier version of a package (or library) which requires earlier versions of other packages which can cause conflict as legacy code may raise errors or warnigns accordingly due to conflict.

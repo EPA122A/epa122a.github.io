@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Project: Vulnerability to weather disasters and public support for climate action
 **Contact:** Adrien Poujon
 

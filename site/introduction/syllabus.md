@@ -1,55 +1,106 @@
+---
+updated: November 9, 2025
+---
+
 # Syllabus
 
 The course is divided into a set of interactive lectures and labs. Lectures are meant to provide students with concepts and theories. Labs are self-directed for practising programming in Python. Use this time to complete assignments in class with ample support from TAs.
 
-## An overview of all course sessions
+## Overview of Course Contents
 
-|     Week     	|       Lecture       	|                 Topic                	|            Learning Goals           	|         Python Libraries        	| Labs [^1] 	| Assessment [^2][^3] 	|
-|:------------:	|:-------------------:	|:------------------------------------:	|:-----------------------------------:	|:-------------------------------:	|:---------:	|:-------------------:	|
-|      W1      	|          L1         	| Introduction to Spatial Data Science 	|                                     	|   Anaconda and Jupyter, Numpy   	| Lab 0 + 1 	|                     	|
-|              	|          L2         	|        Spatial and Urban Data        	|                                     	|                                 	|     "     	|                     	|
-|      W2      	|          L3         	|             Data Grammar             	|           Obtain, Discuss           	|         Pandas, Seaborn         	|   Lab 2   	|                     	|
-|              	|          L4         	|           Data Engineering           	|       Manipulate, consolidate       	|              Pandas             	|     "     	|                     	|
-|      W3      	|          L5         	|         EDA and Visualisation        	| Discuss, manipulate and Consolidate 	| Geopandas, Matplotlib, Rasterio 	|   Lab 3   	|     Assignment 1    	|
-|              	|          L6         	|           Geo-Visualisation          	|              Interpret              	|                                 	|     "     	|                     	|
-|      W4      	|          L7         	|     Networks and Spatial Weights     	|          Describe, Analyse          	|      Networkx, Osmnx, Pysal     	|   Lab 4   	|                     	|
-|              	|          L8         	|   Exploratory Spatial Data Analysis  	|          Describe, Analyze          	|                                 	|     "     	|                     	|
-|      W5      	|          L9         	|     Machine Learning for Everyone    	|                Apply                	|   Sklearn, Scipy, Statsmodels   	|   Lab 5   	|     Assignment 2    	|
-|              	|         L10         	|    Anatomy of a Learning Algorithm   	|                Infer                	|                                 	|     "     	|                     	|
-|      W6      	|         L11         	|              Clustering              	|                Apply                	|      Pysal, Sklearn-Cluster     	|   Lab 6   	|                     	|
-|              	|         L12         	|       Dimensionality Reduction       	|                Apply                	|                                 	|     "     	|                     	|
-| Winter Break 	|                     	|                                      	|                                     	|                                 	|           	|                     	|
-|      W7      	|         L13         	|      Spatial Density Estimation      	|                Infer                	|           More Sklearn          	|   Lab 7   	|     Assignment 3    	|
-|              	|         L14         	|       Responsible Data Science       	|                Create               	|                                 	|     "     	|                     	|
-|      W8      	| Project Preparation 	|                                      	|                                     	|                                 	|           	|                     	|
-|      W10     	|                     	|                                      	|                                     	|                                 	|           	|  Final Project [^4] 	|
+The *Spatial Data Science* course provides a structured journey through the key analytical, computational, and conceptual tools for understanding spatial and urban systems.
+Students progress from core principles of data science and visualization to advanced spatial modeling, clustering, and density estimation techniques. The course blends lectures with applied labs in Python, developing hands-on skills in data wrangling, mapping, and machine learning.
 
-[^1]: Labs are interactive Jupyter notebooks for practicing programming. Each lab is accompanied by homework exercises for practice. Homeworks are not graded, but your peers could give you feedback and they are meant to be done in the lab sessions. We will provide some tips to facilitate this. Constructive feedback from other people is an excellent way to learn.
-[^2]: Graded Assignments are individual activities. Assignments are due on Tuesdays at 1800 of the specified week above.
-[^3]: Grades and feedback released a week after submission on Fridays at 1800.
-[^4]: Final Project is a group activity.
+### **1. Data Science**
+
+* The power of data and its role in shaping evidence-based policy
+* Introduction to geographic data science
+* Main examples of spatial and urban data sources
+
+### **2. Data Grammar**
+
+* Cautionary perspectives on big data analytics
+* Sustainable cities and ethical data use
+* Data wrangling and cleaning with **Pandas**
+* Feature scaling and transformation
+* Introduction to machine learning fundamentals
+
+### **3. Exploratory Data Analysis (EDA) and Visualization**
+
+* The *Grammar of Graphics*
+* Visualization design principles
+* Choosing appropriate chart types for spatial and non-spatial data
+
+### **4. Geo-Visualization**
+
+* Statistical mapping and spatial visualization techniques
+* Communicating spatial patterns effectively through maps
+* Color palettes and perception in geovisualization
+
+### **5. Machine Learning I**
+
+* Introduction to machine learning concepts
+* Decision trees and linear regression
+* Model tuning and the bias–variance tradeoff
+* Anatomy of a learning algorithm
+
+### **6. Machine Learning II**
+
+* Deepening understanding of learning algorithms.
+
+### **7. Clustering**
+
+* Geodemographics and urban segmentation
+* Understanding city structure through clustering
+* Regionalization algorithms and spatial grouping methods
+
+### **8. Dimensionality Reduction**
+
+* Principal Component Analysis (PCA) and applications
+
+### **9. Networks and Spatial Weights**
+
+* Urban segregation and spatial structure
+* Constructing and interpreting spatial weights
+* Introduction to spatial regression frameworks
+
+### **10. Exploratory Spatial Data Analysis (ESDA)**
+
+* Spatial autocorrelation and spatial dependence
+* Quantitative geography and spatial inference
+
+### **11. Spatial Density Estimation**
+
+* Point pattern analysis
+* Kernel density estimation and other spatial density techniques
+
+### **12. Interpreting and Estimating Models**
+
+* Model estimation and inference
+* Statistical and spatial regression interpretation
+* Understanding uncertainty and model limitations
+
+### **13. Theo’s Case Study**
+
+* Data science case study from climate adaptation research
+
+### **14. Machine Learning for Climate Mitigation**
+
+* Applications of machine learning for supporting climate mitigation policy-making
 
 ## Format
 
 Seven weeks of:
 
-- **At-home Prep. Materials**: videos, podcasts, articles... 1h. approx. (most recommended!)
 - **2x 1h. Lectures**: concepts, methods, examples, crtiical discussions
 - **2x 2h. Labs**: hands-on, application of concepts, Python
   (highly *employable*)
 - **Further readings (optional!)**: how to go beyond this course
 
-## Content
-
-- **Weeks 1-4**: "big picture" lectures + introduction to
-    computational tools (learning curve) + lots and lots of data + lots of visualisation
-- **Weeks 5-7**: lots of spatial, network and machine learning concepts + responsibility
-- **Weeks 8-10**: wrap up + prepare an awesome final project in groups
-
 ## Logistics
 
 - **Course Material**: This website only!
-- **Recordings of Lectures**: Lectures are not recorded.
+- **Recordings of Lectures**: Lectures are not recorded and will take place in Den Haag.
 - **Announcements, Submission + Feedback, Group Formation + Peer Review and Grading**: Brightspace
 
 ## Self-directed learning
@@ -63,22 +114,9 @@ Seven weeks of:
 
 ## Assessment
 
-The [assessments](../assessment_index.md) are composed of 4 `graded` components: 3 are **summative** (i.e. contribute to the final grade) and 1 is **formative** (i.e. does not contribute to the final grade):
+The [assessments](../assessment_index.md) are composed of 3 `graded` components: two are **summative** (i.e. contribute to the final grade) and one is **formative** (i.e. does not contribute to the final grade):
 
-* Assignment 1 (20%)
-* Assignment 2 (0%)
-* Assignment 3 (30%)
-* Final Project (50%)
+* Formative Assignment (0%)
+* Summative Group Final Project (50%)
+* Summative Individual Computer-Based Exam (50%)
 
-## A note on exams
-
-Time-constrained exams do not measure any learning. Putting students under high-stakes environments only benefit those who can recall knowledge under pressure and is a filtering mechanism. In my opinion, that is a uselesss life-skill. This course **does not have any exams**.
-
-## More help!!!
-
-This course is much more about **"learning to learn"** and **problem
-solving** rather than acquiring specific programming tricks or stats wizardry.
-
-- Learn to **ask** questions (but don't expect exact answers all the time!!!)
-- **Help** others as much as you can (the best way to learn is to teach)
-- **Search** heavily on your favorite browser, search engine, large language model + stack overflow (be mindful that chatGPT is a [stochastic parrot](https://dl.acm.org/doi/10.1145/3442188.3445922) and cannot replace humans in critical thinking, learning and inference)

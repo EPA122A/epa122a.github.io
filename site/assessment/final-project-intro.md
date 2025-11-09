@@ -1,10 +1,14 @@
+---
+updated: November 9, 2025
+---
+
 # Final Project
 
 ## Overview
 
 The final project is your opportunity to explore a topic in depth. These projects must run through the entire data science process (and do not forget that it is a chaotic process). Therefore, students must work together in teams, as projects often work in life outside of university.
 
-The deadline is in week 10 of the course according to the [schedule](../introduction/schedule.md). The exact date and time will be announced on Brightspace in consulation with other teachers so as not to burden students with submissions on the same day.
+The deadline is 31/01/2026 according to the [schedule](../introduction/schedule.md).
 
 ## Final Projects
 

@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Graphical Installation
 
 ## A graphical approach: `anaconda` installer (easiest to work with)
@@ -18,12 +22,12 @@ To learn more about virtual environments, you can also go [here](environment.md)
 
 ### Creating an environment from an environment.yml file
 
-Get the `environment-gds24.yml` file from [here](https://surfdrive.surf.nl/files/index.php/s/B3iEVHnRM4jRX8k/download).
+Get the `environment-gds25.yml` file from [here](https://surfdrive.surf.nl/s/xgW9nLc6EpYaHaY/download).
 
 1. Open Anaconda Navigator.
 2. Go to the Environments tab.
 3. Click on the Import button.
-4. Select your `environment-gds24.yml` file.
+4. Select your `environment-gds25.yml` file.
 5. Follow the prompts to create the environment.
 
 
@@ -31,4 +35,4 @@ Get the `environment-gds24.yml` file from [here](https://surfdrive.surf.nl/files
 Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes). Grab a *cuppa* and be patient!
 ```
 
-This has created the `gds24` environment, congratulations! We are _almost_ there. Now we need to _activate_ the environment. For this, just  select the right environment and open a jupyter lab notebook.
+This has created the `gds25` environment, congratulations! We are _almost_ there. Now we need to _activate_ the environment. For this, just  select the right environment and open a jupyter lab notebook.

@@ -1,3 +1,7 @@
+---
+updated: November 9, 2025
+---
+
 # Project: Feasibility and fairness of rooftop solar energy diffusion
 **Contact:** Giacomo Marangoni
 
