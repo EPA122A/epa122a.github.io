@@ -2,7 +2,7 @@
 
 ## An outline for writing a data science article
 
-Before starting to write the final article for this course, I suggest you read [A guide to writing scientific text](https://cusp.tbm.tudelft.nl/writing/). The final article should be a list of bullet points instead of paragraphs [^1] following the outline below.
+Before starting to write the final article for this course, I suggest you read [A guide to writing scientific text](https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/). The final article should be a list of bullet points instead of paragraphs [^1] following the outline below.
 
 [^1]: Note: I am not interested in assessing your writing skills in English. The assessment of this course will evaluate your ability to obtain, scrub, explore, model, interpret and communicate your findings **coherently**.
 

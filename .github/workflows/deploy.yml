@@ -39,7 +39,7 @@ jobs:
 
       - name: Build Jupyter Book (MyST v2)
         working-directory: site
-        run: jupyter book build
+        run: jupyter book build --html --ci
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
