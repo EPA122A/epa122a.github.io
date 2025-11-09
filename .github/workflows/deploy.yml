@@ -6,9 +6,6 @@ on:
       - main
   workflow_dispatch:
 
-env:
-  BASE_URL: /${{ github.event.repository.name }}
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -30,19 +27,24 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install Jupyter Book (MyST v2)
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install jupyter-book
 
-      - name: Build Jupyter Book
+      # optional: use uv for faster installs
+      # run: |
+      #   pip install uv
+      #   uv pip install jupyter-book
+
+      - name: Build Jupyter Book (MyST v2)
         working-directory: site
-        run: jupyter-book build .
+        run: jupyter book build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "site/_build/html"
+          path: site/_build/html
 
   deploy:
     environment:
