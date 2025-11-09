@@ -14,7 +14,7 @@ chapters:
   - file: assessment_index
     sections:
       - file: assessment/assignment
-      - file: assessment/final-project
+      - file: assessment/final-project-intro
         sections:
           - file: assessment/fp/final-project-climate-justice
           - file: assessment/fp/final-project-rooftop-pv

@@ -2,14 +2,14 @@
 
 ```{admonition} Table of Contents! 👇🏽
 :class: dropdown
-1. [Lab 0: Tools](lab-0)
-2. [Lab 1: Tidy Data](lab-1)
-3. [Lab 2: Data Engineering](lab-2)
-4. [Lab 3: Geo-Visualisation](lab-3)
-5. [Lab 4: Networks and Spatial Weights](lab-4)
-6. [Lab 5: Linear Regression](lab-5)
-7. [Lab 6: Clustering](lab-6)
-8. [Lab 7: Points](lab-7)
+1. [Lab 0: Tools](#lab-0)
+2. [Lab 1: Tidy Data](#lab-1)
+3. [Lab 2: Data Engineering](#lab-2)
+4. [Lab 3: Geo-Visualisation](#lab-3)
+5. [Lab 4: Networks and Spatial Weights](#lab-4)
+6. [Lab 5: Linear Regression](#lab-5)
+7. [Lab 6: Clustering](#lab-6)
+8. [Lab 7: Points](#lab-7)
 ```
 
 ***

@@ -3,20 +3,20 @@
 ```{admonition} Table of Contents! 👇🏽
 :class: dropdown
 
-1. [Lecture 1: Spatial Data Science](L1)
-2. [Lecture 2: Spatial and Urban Data](L2)
-3. [Lecture 3: Data Grammar](L3)
-4. [Lecture 4: Data Engineering](L4)
-5. [Lecture 5 EDA and Visualisation:](L5)
-6. [Lecture 6: Geo-Visualisation](L6)
-7. [Lecture 7: Networks and Spatial Weights](L7)
-8. [Lecture 8: Exploratory Spatial Data Analysis](L8)
-9. [Lecture 9: Machine Learning for Everyone](L9)
-10. [Lecture 10: Anatomy of a Learning Algorithm](L10)
-11. [Lecture 11: Clustering](L11)
-12. [Lecture 12: Dimensionality Reduction](L12)
-13. [Lecture 13: Spatial Density Estimation](L13)
-14. [Lecture 14: Responsible Data Science](L14)
+1. [Lecture 1: Spatial Data Science](#L1)
+2. [Lecture 2: Spatial and Urban Data](#L2)
+3. [Lecture 3: Data Grammar](#L3)
+4. [Lecture 4: Data Engineering](#L4)
+5. [Lecture 5 EDA and Visualisation:](#L5)
+6. [Lecture 6: Geo-Visualisation](#L6)
+7. [Lecture 7: Networks and Spatial Weights](#L7)
+8. [Lecture 8: Exploratory Spatial Data Analysis](#L8)
+9. [Lecture 9: Machine Learning for Everyone](#L9)
+10. [Lecture 10: Anatomy of a Learning Algorithm](#L10)
+11. [Lecture 11: Clustering](#L11)
+12. [Lecture 12: Dimensionality Reduction](#L12)
+13. [Lecture 13: Spatial Density Estimation](#L13)
+14. [Lecture 14: Responsible Data Science](#L14)
 ```
 
 ```{tip}

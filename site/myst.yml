@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 75edf271-4fb9-461f-9fd4-179444b0c664
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/EPA122A/epa122a.github.io
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
