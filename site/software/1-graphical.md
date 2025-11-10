@@ -1,12 +1,12 @@
 ---
-updated: November 9, 2025
+updated: November 10, 2025
 ---
 
 # Graphical Installation
 
 ## A graphical approach: `anaconda` installer (easiest to work with)
 
-Follow the instructions on the [Anaconda](https://www.anaconda.com/products/distribution) website and install a distribution which contains Python 3.9. Once the software is installed, double click on it, and confirm that you have something called JupyterLab already installed within it. You are done!
+Follow the instructions on the [Anaconda](https://www.anaconda.com/products/distribution) website and install a distribution which contains Python 3.10. Once the software is installed, double click on it, and confirm that you have something called JupyterLab already installed within it. You are done!
 
 - Once you have anaconda installed, we need to set up an independent virtual environment that isolates all the functionality we need.
 
