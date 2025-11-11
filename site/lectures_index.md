@@ -1,5 +1,5 @@
 ---
-updated: November 9, 2025
+updated: November 11, 2025
 ---
 
 # 🧐 Lectures
@@ -36,7 +36,8 @@ updated: November 9, 2025
 
 **Slides**  
 
-- Lecture 1 Slides PDF (coming soon)
+- Lecture 1 Slides [PDF](https://surfdrive.surf.nl/s/N26ZAn29RBTmXee)
+
 
 **Extra Material**  
 
