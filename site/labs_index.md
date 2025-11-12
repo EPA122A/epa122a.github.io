@@ -19,7 +19,7 @@ updated: November 9, 2025
 
 #### Resources
 
-- **Download Materials:** [Lab 0 & Homework 0 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/qv637XJ3TiHHxWt/download)
+- **Download Materials:** [Lab 0 & Homework 0 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/qv637XJ3TiHHxWt)
 
 #### Notes
 
