@@ -1,5 +1,5 @@
 ---
-updated: November 9, 2025
+updated: November 12, 2025
 ---
 
 # 💻 Labs
@@ -41,7 +41,7 @@ If you want to explore further by yourself the contents presented in this tutori
 
 #### Resources
 
-- **Download Materials:** [Lab 1 & Homework 1 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/UJBpIa4V6CecvOQ/download)
+- **Download Materials:** [Lab 1 & Homework 1 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/UJBpIa4V6CecvOQ)
 
 #### Data
 
@@ -64,7 +64,7 @@ This session uses the **"Census socio-demographics"** dataset of The Hague, Neth
 
 #### Resources
 
-- **Download Materials:** [Lab 2 & Homework 2 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/XK6UdKXfB9vAT9h/download)
+- **Download Materials:** [Lab 2 & Homework 2 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/XK6UdKXfB9vAT9h)
 
 #### Data
 
@@ -81,7 +81,7 @@ This session uses two datasets which are provided in the zipped lab files above.
 
 #### Resources
 
-- **Download Materials:** [Lab 3 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/JoKvDXxL6Hb15zD/download)
+- **Download Materials:** [Lab 3 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/files/index.php/s/JoKvDXxL6Hb15zD)
 
 The homework exercises are embedded within the lab files itself. You have to complete the exercises as you go along understanding the rest of the code. There are two files for this lab, ``geovis`` and ``eda``. Since this geocomputational lab is not as straightforward as other python code, a **solution set** is also provided for questions indicated in the lab.
 
