@@ -1,5 +1,5 @@
 ---
-updated: November 11, 2025
+updated: November 13, 2025
 ---
 
 # 🧐 Lectures
@@ -64,7 +64,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture 2 Slides PDF (coming soon)
+- Lecture 2 Slides [PDF](https://surfdrive.surf.nl/s/bLdKM54MHg5GMAT)
 
 **Extra Material**  
 
