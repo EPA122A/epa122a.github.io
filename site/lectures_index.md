@@ -1,5 +1,5 @@
 ---
-updated: November 13, 2025
+updated: November 18, 2025
 ---
 
 # 🧐 Lectures
@@ -84,7 +84,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 ## Lecture 3 - Exploratory Data Analysis (EDA) and Visualization
 
 **Slides**  
-- Lecture slides PDF (coming soon)
+- Lecture slides [PDF](https://surfdrive.surf.nl/s/Npp9b0lc4eWiD1t)
 
 - [Beautiful visualisations](https://surfdrive.surf.nl/files/index.php/s/QwhDIrRVptaLuiU/download)
 - [Principles of Graphical Excellence and other things..](https://surfdrive.surf.nl/files/index.php/s/ssJI19HkpxDgLIJ/download)
