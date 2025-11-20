@@ -15,7 +15,7 @@ project:
       children:
         - file: introduction/overview.md
         - file: introduction/syllabus.md
-        - file: introduction/schedule.md
+    - file: introduction/schedule.md
     - file: lectures_index.md
     - file: labs_index.md
     - file: assessment_index.md
