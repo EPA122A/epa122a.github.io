@@ -1,5 +1,5 @@
 ---
-updated: November 12, 2025
+updated: November 24, 2025
 ---
 
 # 💻 Labs
@@ -10,6 +10,7 @@ updated: November 12, 2025
 2. [Lab 1: Tidy Data](#lab-1)
 3. [Lab 2: Data Engineering](#lab-2)
 4. [Lab 3: Geo-Visualisation](#lab-3)
+5. [Lab 4: Linear Regression](#lab-4)
 ```
 
 ***
@@ -97,3 +98,29 @@ This session uses multiple datasets which are provided in the zipped lab files a
 
 * A good introduction to the `geopandas` project is provided by Kelsey Jordahl, the project's founder in this [set of slides](http://kjordahl.github.io/SciPy-Tutorial-2015/#1) from a 2015 talk and the companion [repository](https://github.com/kjordahl/SciPy-Tutorial-2015).
 * An additional great resource is this 4h. [workshop](https://github.com/carsonfarmer/python_geospatial) by Carson Farmer.
+
+https://surfdrive.surf.nl/s/PD3aIcAr9DBcTMT
+
+***
+
+(lab-4)=
+## Lab 4 - Linear Regression
+
+#### Resources
+
+- **Download Materials:** [Lab 4 & Homework 4 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/s/PD3aIcAr9DBcTMT)
+
+Since this lab is not as straightforward as other python code, a **solution set** is provided for questions indicated in the lab and homework. It is better if you try yourself and get feedback from your peers, and then look at the solutions.
+
+#### Data
+
+This session uses multiple data files.
+
+1. A dataset downloaded from Kaggle on stats about the premiere league.
+2. A Boston housing dataset and its training set companion.
+3. An IMDB cast dataset.
+4. A car dataset.
+5. A cab dataset.
+
+These sets are not that relevant to global urban issues but simple to work with on small regression practice sets.
+
