@@ -1,5 +1,5 @@
 ---
-updated: November 20, 2025
+updated: November 25, 2025
 ---
 
 # 🧐 Lectures
