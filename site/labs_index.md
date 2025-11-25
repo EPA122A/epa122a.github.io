@@ -99,7 +99,6 @@ This session uses multiple datasets which are provided in the zipped lab files a
 * A good introduction to the `geopandas` project is provided by Kelsey Jordahl, the project's founder in this [set of slides](http://kjordahl.github.io/SciPy-Tutorial-2015/#1) from a 2015 talk and the companion [repository](https://github.com/kjordahl/SciPy-Tutorial-2015).
 * An additional great resource is this 4h. [workshop](https://github.com/carsonfarmer/python_geospatial) by Carson Farmer.
 
-https://surfdrive.surf.nl/s/PD3aIcAr9DBcTMT
 
 ***
 
