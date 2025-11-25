@@ -124,7 +124,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF (coming soon)
+- Lecture slides [PDF](https://surfdrive.surf.nl/s/995K9SG4ffBrt3r)
 
 - [A Visual Introduction to Machine Learning by r2d3 - Part I: A Decision Tree](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [A visual introduction to learning linear regression](https://mlu-explain.github.io/linear-regression/).
