@@ -126,13 +126,13 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 - Lecture slides [PDF](https://surfdrive.surf.nl/s/995K9SG4ffBrt3r)
 
-- [A Visual Introduction to Machine Learning by r2d3 - Part I: A Decision Tree](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A Visual Introduction to Machine Learning by r2d3 - Part I: A Decision Tree](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
 - [A visual introduction to learning linear regression](https://mlu-explain.github.io/linear-regression/).
 
 **Extra Material**  
 
-* Chapter 1 and section 3.1 of [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov. In general, you may want to buy [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) as _some_ chapters will be used in _some_ topics from this point onwards and it is generally a fantastic book to have. The author has invested a lot in writing this book, and it is an excellent resource on Machine Learning, even beyond this class.
-* [A Visual Introduction to Machine Learning by r2d3 - Part II: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+* [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook) by Andriy Burkov.
+* [A Visual Introduction to Machine Learning by r2d3 - Part II: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/).
 
 ***
 
