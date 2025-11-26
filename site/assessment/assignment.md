@@ -1,5 +1,5 @@
 ---
-updated: November 9, 2025
+updated: November 26, 2025
 ---
 
 # Formative Assignment
@@ -10,7 +10,7 @@ Below the formative assignment will be soon released. This will assess the progr
 
 ## Notebook
 
-- Assignment Notebook (coming soon)
+- Assignment Notebook [ipynb](https://surfdrive.surf.nl/s/2gXnGdNAZDTHtL5)
 
 ## Submission
 
