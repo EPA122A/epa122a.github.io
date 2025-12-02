@@ -11,6 +11,7 @@ updated: November 24, 2025
 3. [Lab 2: Data Engineering](#lab-2)
 4. [Lab 3: Geo-Visualisation](#lab-3)
 5. [Lab 4: Linear Regression](#lab-4)
+6. [Lab 5: Clustering](#lab-5)
 ```
 
 ***
@@ -123,3 +124,41 @@ This session uses multiple data files.
 
 These sets are not that relevant to global urban issues but simple to work with on small regression practice sets.
 
+***
+
+(lab-5)=
+## Lab 5 - Clustering
+
+#### Resources
+
+- **Download Materials:** [Lab 5 & Homework 5 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/s/tvNqOlvMw6q4a7A)
+
+#### Data
+
+This session uses the **"AirBnb listing for Inner London - MSOA level"** dataset.
+
+This dataset contains information for [AirBnb](https://www.airbnb.com) properties for the area of Inner London aggregated at the MSOA level. It has been prepared by Dani Arribas-Bel using as the original source the full listing of AirBnb locations for London provided by [Inside AirBnb](http://insideairbnb.com/). Same as the source, the dataset is released under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) License.
+
+For every polygon, the following variables are provided:
+
+* `id`: MSOA unique identifier.
+* `accommodates`: average property capacity in the MSOA.
+* `bathrooms`: average number of bathrooms in the properties within the MSOA.
+* `bedrooms`: average number of bedrooms in the properties within the MSOA.
+* `beds`: average number of beds in the properties within the MSOA.
+* `number_of_reviews`: average number of reviews received by the properties within the MSOA.
+* `reviews_per_month`: average number of reviews per month received by the properties within the MSOA.
+* `review_scores_ratings`: average rating score received by the properties within the MSOA.
+* `review_scores_accuracy`: average accuracy score received by the properties within the MSOA.
+* `review_scores_cleanliness`: average cleanliness score received by the properties within the MSOA.
+* `review_scores_checkin`: average checkin score received by the properties within the MSOA.
+* `review_scores_communication`: average communication score received by the properties within the MSOA.
+* `review_scores_location`: average location score received by the properties within the MSOA.
+* `review_scores_value`: average value score received by the properties within the MSOA.
+* `property_count`: total number of AirBnb properties listed withing the MSOA.
+
+The lab also uses an additional file that contains the boundary lines of the London boroughs provided in the data folder as well.
+
+#### Extra Material
+
+* The documentation for [`scikit-learn`](http://scikit-learn.org), a world-class Python library for machine learning, is excellent and includes many examples that cover the entire functionality set of the library.

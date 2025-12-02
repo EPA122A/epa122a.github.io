@@ -157,7 +157,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF (coming soon)
+- Lecture slides [PDF](https://surfdrive.surf.nl/s/4arg9joC2q2JySZ)
 
 **Extra Material**  
 
