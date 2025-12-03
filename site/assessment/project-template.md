@@ -1,14 +1,14 @@
 ---
-updated: November 9, 2025
+updated: December 3, 2025
 ---
 
 # Project Template
 
 ## An outline for writing a data science article
 
-Before starting to write the final article for this course, I suggest you read [A guide to writing scientific text](https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/). The final article should be a list of bullet points instead of paragraphs [^1] following the outline below.
-
-[^1]: Note: I am not interested in assessing your writing skills in English. The assessment of this course will evaluate your ability to obtain, scrub, explore, model, interpret and communicate your findings **coherently**.
+Before starting to write the final article for this course, I suggest you read [A guide to writing scientific text](https://trivikverma.com/blog/2020-06-a-guide-to-writing-scientific-text/). You are expected to submit:
+1) a PDF with your report following the outline below, using either paragraphs or bullet points but in any case coincise, coherent and well justified;
+2) the notebook (or set of notebooks) used to analyze and visualize the data of your problem.
 
 ### Title
 
