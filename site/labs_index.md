@@ -1,5 +1,5 @@
 ---
-updated: November 24, 2025
+updated: December 9, 2025
 ---
 
 # 💻 Labs
@@ -12,6 +12,7 @@ updated: November 24, 2025
 4. [Lab 3: Geo-Visualisation](#lab-3)
 5. [Lab 4: Linear Regression](#lab-4)
 6. [Lab 5: Clustering](#lab-5)
+7. [Lab 6: Networks and Spatial Weights](#lab-6)
 ```
 
 ***
@@ -162,3 +163,32 @@ The lab also uses an additional file that contains the boundary lines of the Lon
 #### Extra Material
 
 * The documentation for [`scikit-learn`](http://scikit-learn.org), a world-class Python library for machine learning, is excellent and includes many examples that cover the entire functionality set of the library.
+
+***
+
+(lab-6)=
+## Lab 6 - Networks and Spatial Weights
+
+#### Resources
+
+- **Download Materials:** [Lab 6 & Homework 6 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/s/QRxW7MgfT42F0KW)
+
+#### Data
+
+This session uses multiple datasets which are all provided in the zipped lab files above.
+
+This session uses multiple datasets which are provided in the zipped lab files above.
+
+1. An **"Index of Multiple Deprivation""** dataset as well as the Ordnance Survey **(OS) Geodata Pack**.
+Scores, ranks, and components of the 2015 Index of Multiple Deprivation (IMD).
+**Source**: [CDRC](http://cdrc.ac.uk/)'s English Indices of Deprivation 2015 Geodata Pack for the city of Liverpool (UK).
+2. Additionally, you will need the raster file for the basemap of Liverpool. This has been assembled by [Dani Arribas-Bel](http://darribas.org) from the [OS VectorMap District (Backdrop Raster)](https://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html), and it is licensed as OpenData.
+3. A **Brexit** dataset.
+
+The Brexit dataset is of the results of the 2016 referendum vote to leave the EU, at the local authority level. All the necessary data have been assembled for convenience in a single file that contains geographic information about each local authority in England, Wales and Scotland, as well as the vote attributes. The file is in the modern geospatial format [GeoPackage](http://www.geopackage.org/), which presents several advantages over the more traditional shapefile (chief among them, the need of a single file instead of several).
+
+The source data used to compile the file linked above include:
+
+- Electoral Commission data on the EU referendum results ([`url`](https://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/past-elections-and-referendums/eu-referendum/electorate-and-count-information))
+- Local Authority District boundaries (archived, not available online anymore)
+
