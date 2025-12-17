@@ -1,5 +1,5 @@
 ---
-updated: December 12, 2025
+updated: December 17, 2025
 ---
 
 # 🧐 Lectures
@@ -217,8 +217,8 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF (coming soon)
-
+- Lecture slides [PDF](https://surfdrive.surf.nl/s/qmrtwPdszKM4d7i)
+- Paper for lecture [Paper](https://surfdrive.surf.nl/s/P9yZYpxsyM6NyHm)
 **Extra Material**  
 
 * Lecture on  "Point Pattern Analysis Basics" by Luc Anselin ([link](https://www.youtube.com/watch?v=Z2iT4JpqGZg&list=PLzREt6r1NenlmAiF3ds5_WGVAG1rTYSK-&index=1) to 45min video, and [link](https://www.youtube.com/watch?v=BN94XXT6Io4) to a more recent 6 min intro).
