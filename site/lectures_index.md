@@ -232,7 +232,7 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 **Slides**  
 
 - Lecture slides [PDF](https://surfdrive.surf.nl/s/bdJ8AjADL8sikHJ)
-- A holliday lab for you to play with some Estimations [Lab](https://surfdrive.surf.nl/s/a49wdEHDESaQ2X2) 
+- A holiday lab for you to play with some Estimations [Lab](https://surfdrive.surf.nl/s/a49wdEHDESaQ2X2) 
 ***
 
 (L13)=
