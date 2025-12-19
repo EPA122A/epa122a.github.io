@@ -1,5 +1,5 @@
 ---
-updated: December 9, 2025
+updated: December 19, 2025
 ---
 
 # 💻 Labs
@@ -13,6 +13,7 @@ updated: December 9, 2025
 5. [Lab 4: Linear Regression](#lab-4)
 6. [Lab 5: Clustering](#lab-5)
 7. [Lab 6: Networks and Spatial Weights](#lab-6)
+8. [Lab 7: Points](#lab-7)
 ```
 
 ***
@@ -192,3 +193,19 @@ The source data used to compile the file linked above include:
 - Electoral Commission data on the EU referendum results ([`url`](https://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/past-elections-and-referendums/eu-referendum/electorate-and-count-information))
 - Local Authority District boundaries (archived, not available online anymore)
 
+***
+
+(lab-7)=
+## Lab 7 - Points
+
+#### Resources
+
+- **Download Materials:** [Lab 7 & Homework 7 Notebooks + Data (ZIP)](https://surfdrive.surf.nl/s/9mJDjRSuIVd7HeL)
+
+#### Data
+
+This lab uses a sample of geo-referenced locations of photographs taken in Tokyo.
+
+#### Extra Material
+
+* A very good resource for kernel density estimation in Python is provided in [this blog post](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/) by Jake Vanderplas.
