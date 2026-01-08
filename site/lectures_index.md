@@ -251,4 +251,4 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 
 **Slides**  
 
-- Lecture slides PDF [PDF](https://surfdrive.surf.nl/s/aRyNK2bHJc8aQkq)
+- Lecture slides [PDF](https://surfdrive.surf.nl/s/aRyNK2bHJc8aQkq)
