@@ -20,7 +20,7 @@ updated: December 19, 2025
 11. [Lecture 11: Spatial Density Estimation](#L11)
 12. [Lecture 12: Interpreting and Estimating Models](#L12)
 13. [Lecture 13: Theo’s Case Study](#L13)
-14. [Lecture 14: Machine Learning for Climate Mitigation](#L14)
+14. [Lecture 14: Recap + ML for Climate Mitigation](#L14)
 ```
 
 ```{tip}
@@ -247,8 +247,8 @@ Epistemology?](https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2260&c
 ***
 
 (L14)=
-## Lecture 14 - Machine Learning for Climate Mitigation
+## Lecture 14 - Recap + ML for Climate Mitigation
 
 **Slides**  
 
-- Lecture slides PDF (coming soon)
+- Lecture slides PDF [PDF](https://surfdrive.surf.nl/s/aRyNK2bHJc8aQkq)
