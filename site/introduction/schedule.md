@@ -36,5 +36,5 @@ updated: November 9, 2025
 |       2      | Wed | 07-01-2026 | 15:15–17:00 | *Lab*           | —                                      |            | CDH Lab1 (5.40), CDH Lab2 (5.38)    |
 |       2      | Fri | 09-01-2026 | 13:15–15:00 | **Lecture 14**  | **ML for Climate Mitigation**          | Giacomo    | CDH Wijnhaven 3.46                  |
 |       2      | Fri | 09-01-2026 | 15:15–17:00 | *Lab*           | —                                      |            | CDH Lab1 (5.40), CDH Lab2 (5.38)    |
-|       5      | Thu | 29-01-2026 | 18:30–21:30 | **EXAM**        | **COMPUTER-BASED EXAM**                |            | CEG Computer Room 0.20 (23.HG.0.20) |
+|       5      | Thu | 29-01-2026 | 18:30–21:30 | **EXAM**        | **COMPUTER-BASED EXAM**                |            | *Check mytimetable* |
 |       5      | Sat | 31-01-2026 |      —      | **DEADLINE**    | **SUMMATIVE FINAL PROJECT DUE**        |            | —                                   |
